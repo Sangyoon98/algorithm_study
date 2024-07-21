@@ -12,6 +12,7 @@
 | 백준  | 10699 | [오늘 날짜](https://www.acmicpc.net/problem/10699) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10699.java) |
 | 백준  | 7287  |   [등록](https://www.acmicpc.net/problem/7287)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B7287.java)  |
 | 백준  | 11382 | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11382.java) |
+| 백준  | 2420  | [사파리월드](https://www.acmicpc.net/problem/2420)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2420.java)  |
 
 </details>
 
