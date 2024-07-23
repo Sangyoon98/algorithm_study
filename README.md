@@ -20,7 +20,8 @@
 | 백준  | 2754  |    [학점계산](https://www.acmicpc.net/problem/2754)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2754.java)  |
 | 백준  | 27866 |  [문자와 문자열](https://www.acmicpc.net/problem/27866)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B27866.java)  |
 | 백준  | 9086  |     [문자열](https://www.acmicpc.net/problem/9086)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9086.java)  |
-| 백준  | 15964 |   [이상한 기호](https://www.acmicpc.net/problem/15964)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15964.java)  |
+| 백준  | 15964 |   [이상한 기호](https://www.acmicpc.net/problem/15964)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15964.java)  |
+| 백준  | 25304 |    [영수증](https://www.acmicpc.net/problem/25304)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25304.java)  |
 
 </details>
 
