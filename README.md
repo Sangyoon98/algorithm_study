@@ -30,6 +30,9 @@
 | 백준  | 2444  |      [별 찍기 - 7](https://www.acmicpc.net/problem/2444)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2444.java)  |
 | 백준  | 10988 |    [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10988.java) |
 | 백준  | 25206 |       [너의 평점은](https://www.acmicpc.net/problem/25206)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25206.java) |
+| 백준  | 10798 |        [세로읽기](https://www.acmicpc.net/problem/10798)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10798.java) |
+| 백준  | 2745  |        [진법 변환](https://www.acmicpc.net/problem/2745)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2745.java)  |
+| 백준  | 11005 |       [진법 변환2](https://www.acmicpc.net/problem/11005)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11005.java) |
 
 </details>
 
