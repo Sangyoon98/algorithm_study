@@ -34,6 +34,7 @@
 | 백준  | 2745  |        [진법 변환](https://www.acmicpc.net/problem/2745)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2745.java)  |
 | 백준  | 11005 |       [진법 변환2](https://www.acmicpc.net/problem/11005)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11005.java) |
 | 백준  | 2720  |      [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2720.java)  |
+| 백준  | 2903  |     [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2903.java)  |
 
 </details>
 
