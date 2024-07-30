@@ -36,6 +36,7 @@
 | 백준  | 2720  |      [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2720.java)  |
 | 백준  | 2903  |     [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2903.java)  |
 | 백준  | 5086  |       [베수와 약수](https://www.acmicpc.net/problem/5086)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5086.java)  |
+| 백준  | 5338  |     [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5338.java)  |
 
 </details>
 
