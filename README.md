@@ -38,6 +38,11 @@
 | 백준  | 5086  |       [베수와 약수](https://www.acmicpc.net/problem/5086)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5086.java)  |
 | 백준  | 5338  |     [마이크로소프트 로고](https://www.acmicpc.net/problem/5338)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5338.java)  |
 | 백준  | 2501  |       [약수 구하기](https://www.acmicpc.net/problem/2501)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2501.java)  |
+| 백준  | 9506  |       [약수들의 합](https://www.acmicpc.net/problem/9506)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9506.java)  |
+| 백준  | 27323 |        [직사각형](https://www.acmicpc.net/problem/27323)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B27323.java) |
+| 백준  | 3009  |       [네 번째 점](https://www.acmicpc.net/problem/3009)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3009.java)  |
+| 백준  | 15894 |    [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15894.java) |
+| 백준  | 9063  |         [대지](https://www.acmicpc.net/problem/9063)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9063.java)  |
 
 </details>
 
