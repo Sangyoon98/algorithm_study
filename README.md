@@ -43,6 +43,9 @@
 | 백준  | 3009  |       [네 번째 점](https://www.acmicpc.net/problem/3009)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3009.java)  |
 | 백준  | 15894 |    [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15894.java) |
 | 백준  | 9063  |         [대지](https://www.acmicpc.net/problem/9063)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9063.java)  |
+| 백준  | 10101 |      [삼각형 외우기](https://www.acmicpc.net/problem/10101)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10101.java) |
+| 백준  | 5073  |      [삼각형과 세 변](https://www.acmicpc.net/problem/5073)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5073.java)  |
+| 백준  | 14215 |        [세 막대](https://www.acmicpc.net/problem/14215)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14215.java) |
 
 </details>
 
