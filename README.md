@@ -46,6 +46,8 @@
 | 백준  | 10101 |      [삼각형 외우기](https://www.acmicpc.net/problem/10101)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10101.java) |
 | 백준  | 5073  |      [삼각형과 세 변](https://www.acmicpc.net/problem/5073)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5073.java)  |
 | 백준  | 14215 |        [세 막대](https://www.acmicpc.net/problem/14215)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14215.java) |
+| 백준  | 19532 |    [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B19532.java) |
+| 백준  | 10815 |       [숫자 카드](https://www.acmicpc.net/problem/10815)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10815.java) |
 
 </details>
 
