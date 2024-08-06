@@ -52,6 +52,12 @@
 | 백준  | 7785  |      [회사에 있는 사람](https://www.acmicpc.net/problem/7785)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B7785.java)  |
 | 백준  | 1620  |   [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1620.java)  |
 | 백준  | 10816 |      [숫자 카드 2](https://www.acmicpc.net/problem/10816)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10816.java) |
+| 백준  | 1764  |         [듣보잡](https://www.acmicpc.net/problem/1764)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1764.java)  |
+| 백준  | 10828 |         [스택](https://www.acmicpc.net/problem/10828)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10828.java) |
+| 백준  | 10845 |         [큐](https://www.acmicpc.net/problem/10845)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10845.java) |
+| 백준  | 30802 |       [웰컴 키트](https://www.acmicpc.net/problem/30802)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B30802.java) |
+| 백준  | 1269  |       [대칭 차집합](https://www.acmicpc.net/problem/1269)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1269.java)  |
+| 백준  | 11478 |  [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11478.java) |
 
 </details>
 
