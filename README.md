@@ -58,6 +58,10 @@
 | 백준  | 30802 |       [웰컴 키트](https://www.acmicpc.net/problem/30802)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B30802.java) |
 | 백준  | 1269  |       [대칭 차집합](https://www.acmicpc.net/problem/1269)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1269.java)  |
 | 백준  | 11478 |  [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11478.java) |
+| 백준  | 31403 |     [A + B - C](https://www.acmicpc.net/problem/31403)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B31403.java) |
+| 백준  | 1934  |        [최소공배수](https://www.acmicpc.net/problem/1934)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1934.java)  |
+| 백준  | 13241 |       [최소공배수](https://www.acmicpc.net/problem/13241)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B13241.java) |
+| 백준  | 1735  |        [분수 합](https://www.acmicpc.net/problem/1735)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1735.java)  |
 
 </details>
 
