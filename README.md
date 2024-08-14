@@ -63,6 +63,8 @@
 | 백준  | 13241 |       [최소공배수](https://www.acmicpc.net/problem/13241)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B13241.java) |
 | 백준  | 1735  |        [분수 합](https://www.acmicpc.net/problem/1735)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1735.java)  |
 | 백준  | 2485  |         [가로수](https://www.acmicpc.net/problem/2485)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2485.java)  |
+| 백준  | 17103 |      [골드바흐 파티션](https://www.acmicpc.net/problem/17103)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B17103.java) |
+| 백준  | 13909 |       [창문 닫기](https://www.acmicpc.net/problem/13909)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B13909.java) |
 
 </details>
 
