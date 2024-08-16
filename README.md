@@ -65,6 +65,8 @@
 | 백준  | 2485  |         [가로수](https://www.acmicpc.net/problem/2485)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2485.java)  |
 | 백준  | 17103 |      [골드바흐 파티션](https://www.acmicpc.net/problem/17103)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B17103.java) |
 | 백준  | 13909 |       [창문 닫기](https://www.acmicpc.net/problem/13909)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B13909.java) |
+| 백준  | 28728 |        [스택2](https://www.acmicpc.net/problem/28728)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B28728.java) |
+| 백준  | 10773 |         [제로](https://www.acmicpc.net/problem/10773)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10773.java) |
 
 </details>
 
