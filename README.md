@@ -69,6 +69,10 @@
 | 백준  | 10773 |         [제로](https://www.acmicpc.net/problem/10773)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10773.java) |
 | 백준  | 12789 |     [도키도키 간식드리미](https://www.acmicpc.net/problem/12789)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B12789.java) |
 | 백준  | 18258 |         [큐2](https://www.acmicpc.net/problem/18258)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B18258.java) |
+| 백준  | 28279 |         [덱2](https://www.acmicpc.net/problem/28279)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B28279.java) |
+| 백준  | 2346  |       [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2346.java)  |
+| 백준  | 27433 |       [팩토리얼 2](https://www.acmicpc.net/problem/27433)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B27433.java) |
+| 백준  | 10870 |      [피보나치 수 5](https://www.acmicpc.net/problem/10870)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10870.java) |
 
 </details>
 
