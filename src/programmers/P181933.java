@@ -1,6 +1,6 @@
 package programmers;
 
-public class SampleProgrammers {
+class P181933 {
     public static void main(String[] args) {
         int a1 = -4;
         int b1 = 7;

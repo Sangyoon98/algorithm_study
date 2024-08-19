@@ -1,19 +1,15 @@
 package programmers;
 
-public class SampleProgrammers {
+class P181879 {
     public static void main(String[] args) {
-        int a1 = -4;
-        int b1 = 7;
-        boolean flag1 = true;
-        int answer1 = 3;
-        int result1 = new P181933().solution(a1, b1, flag1);
+        int[] num_list1 = new int[]{3, 4, 5, 2, 5, 4, 6, 7, 3, 7, 2, 2, 1};
+        int answer1 = 51;
+        int result1 = new P181879().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
 
-        int a2 = -4;
-        int b2 = 7;
-        boolean flag2 = false;
-        int answer2 = -11;
-        int result2 = new P181933().solution(a2, b2, flag2);
+        int[] num_list2 = new int[]{2, 3, 4, 5};
+        int answer2 = 120;
+        int result2 = new P181879().solution(num_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 
@@ -28,7 +24,13 @@ public class SampleProgrammers {
         else throw new RuntimeException(sb.toString());
     }
 
-    public int solution(int a, int b, boolean flag) {
-        return flag ? a + b : a - b;
+    public int solution(int[] num_list) {
+        int answer = (num_list.length <= 10 ? 1 : 0);
+        if (num_list.length <= 10) {
+            for (int i : num_list) answer *= i;
+        } else {
+            for (int i : num_list) answer += i;
+        }
+        return answer;
     }
 }

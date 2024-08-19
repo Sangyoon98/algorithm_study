@@ -1,24 +1,20 @@
 package programmers;
 
-public class SampleProgrammers {
+class P181877 {
     public static void main(String[] args) {
-        int a1 = -4;
-        int b1 = 7;
-        boolean flag1 = true;
-        int answer1 = 3;
-        int result1 = new P181933().solution(a1, b1, flag1);
+        String myString1 = "aBcDeFg";
+        String answer1 = "ABCDEFG";
+        String result1 = new P181877().solution(myString1);
         PRINT_RESULT(1, result1, answer1);
 
-        int a2 = -4;
-        int b2 = 7;
-        boolean flag2 = false;
-        int answer2 = -11;
-        int result2 = new P181933().solution(a2, b2, flag2);
+        String myString2 = "AAA";
+        String answer2 = "AAA";
+        String result2 = new P181877().solution(myString2);
         PRINT_RESULT(2, result2, answer2);
     }
 
-    public static void PRINT_RESULT(int index, int result, int answer) {
-        boolean correct = result == answer;
+    public static void PRINT_RESULT(int index, String result, String answer) {
+        boolean correct = result.equals(answer);
         StringBuilder sb = new StringBuilder();
         sb.append("\n\n테스트 케이스 ").append(index).append(": ");
         sb.append(correct ? "정답" : "오답").append("\n");
@@ -28,7 +24,7 @@ public class SampleProgrammers {
         else throw new RuntimeException(sb.toString());
     }
 
-    public int solution(int a, int b, boolean flag) {
-        return flag ? a + b : a - b;
+    public String solution(String myString) {
+        return myString.toUpperCase();
     }
 }

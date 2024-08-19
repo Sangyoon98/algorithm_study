@@ -73,6 +73,8 @@
 | 백준  | 2346  |       [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2346.java)  |
 | 백준  | 27433 |       [팩토리얼 2](https://www.acmicpc.net/problem/27433)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B27433.java) |
 | 백준  | 10870 |      [피보나치 수 5](https://www.acmicpc.net/problem/10870)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10870.java) |
+| 백준  | 25501 |       [재귀의 귀재](https://www.acmicpc.net/problem/25501)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25501.java) |
+| 백준  | 24060 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24060.java) |
 
 </details>
 
@@ -81,8 +83,12 @@
 <details>
 <summary>프로그래머스 문제 리스트</summary>
 
-| 사이트 | 문제 | 문제 제목 | 정답 코드 |
-|:---:|:--:|:-----:|:-----:|
+|  사이트   |   문제   |                                         문제 제목                                          |                                              정답 코드                                               |
+|:------:|:------:|:--------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| 프로그래머스 | 181933 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181933.java) |
+| 프로그래머스 | 181876 |      [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181876.java) |
+| 프로그래머스 | 181877 |      [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181877.java) |
+| 프로그래머스 | 181879 |     [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181879.java) |
 
 </details>
 
