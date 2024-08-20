@@ -76,6 +76,7 @@
 | 백준  | 10870 |      [피보나치 수 5](https://www.acmicpc.net/problem/10870)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10870.java) |
 | 백준  | 25501 |       [재귀의 귀재](https://www.acmicpc.net/problem/25501)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25501.java) |
 | 백준  | 24060 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24060.java) |
+| 백준  | 2447  |      [별 찍기 - 10](https://www.acmicpc.net/problem/2447)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2447.java)  |
 
 </details>
 
@@ -91,6 +92,8 @@
 | 프로그래머스 | 181876 |      [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181876.java) |
 | 프로그래머스 | 181877 |      [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181877.java) |
 | 프로그래머스 | 181879 |     [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181879.java) |
+| 프로그래머스 | 181882 |  [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181882.java) |
+| 프로그래머스 | 181884 |   [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181884.java) |
 
 </details>
 
