@@ -77,6 +77,7 @@
 | 백준  | 25501 |       [재귀의 귀재](https://www.acmicpc.net/problem/25501)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25501.java) |
 | 백준  | 24060 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24060.java) |
 | 백준  | 2447  |      [별 찍기 - 10](https://www.acmicpc.net/problem/2447)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2447.java)  |
+| 백준  | 15649 |      [N과 M (1)](https://www.acmicpc.net/problem/15649)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15649.java) |
 
 </details>
 
