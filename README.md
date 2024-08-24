@@ -79,6 +79,7 @@
 | 백준  | 2447  |      [별 찍기 - 10](https://www.acmicpc.net/problem/2447)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2447.java)  |
 | 백준  | 15649 |      [N과 M (1)](https://www.acmicpc.net/problem/15649)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15649.java) |
 | 백준  | 9663  |       [N-Queen](https://www.acmicpc.net/problem/9663)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9663.java)  |
+| 백준  | 2178  |        [미로 탐색](https://www.acmicpc.net/problem/2178)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2178.java)  |
 
 </details>
 
