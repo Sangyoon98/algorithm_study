@@ -80,6 +80,7 @@
 | 백준  | 15649 |      [N과 M (1)](https://www.acmicpc.net/problem/15649)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15649.java) |
 | 백준  | 9663  |       [N-Queen](https://www.acmicpc.net/problem/9663)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9663.java)  |
 | 백준  | 2178  |        [미로 탐색](https://www.acmicpc.net/problem/2178)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2178.java)  |
+| 백준  | 24511 |     [queuestack](https://www.acmicpc.net/problem/24511)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24511.java) |
 
 </details>
 
@@ -98,6 +99,13 @@
 | 프로그래머스 | 181882 |  [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181882.java) |
 | 프로그래머스 | 181884 |   [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181884.java) |
 | 프로그래머스 | 181888 |     [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181888.java) |
+| 프로그래머스 | 120805 |       [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120805.java) |
+| 프로그래머스 | 120807 |      [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120807.java) |
+| 프로그래머스 | 120820 |       [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120820.java) |
+| 프로그래머스 | 120803 |       [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120803.java) |
+| 프로그래머스 | 120804 |       [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120804.java) |
+| 프로그래머스 | 120810 |      [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120810.java) |
+| 프로그래머스 | 120806 |      [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120806.java) |
 
 </details>
 
