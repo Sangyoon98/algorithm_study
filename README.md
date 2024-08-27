@@ -84,6 +84,8 @@
 | 백준  | 2490  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |         [윷놀이](https://www.acmicpc.net/problem/2490)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2490.java)  |
 | 백준  | 2576  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |         [홀수](https://www.acmicpc.net/problem/2576)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2576.java)  |
 | 백준  | 10093 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20" height="20"/>  |         [숫자](https://www.acmicpc.net/problem/10093)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10093.java) |
+| 백준  | 1267  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |       [핸드폰 요금](https://www.acmicpc.net/problem/1267)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1267.java)  |
+| 백준  | 2440  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |      [별 찍기 - 3](https://www.acmicpc.net/problem/2440)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2440.java)  |
 
 </details>
 
