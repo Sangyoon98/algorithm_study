@@ -93,6 +93,8 @@
 | 백준  | 2445  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |      [별 찍기 - 8](https://www.acmicpc.net/problem/2445)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2445.java)  |
 | 백준  | 2446  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |      [별 찍기 - 9](https://www.acmicpc.net/problem/2446)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2446.java)  |
 | 백준  | 10808 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |       [알파벳 개수](https://www.acmicpc.net/problem/10808)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10808.java) |
+| 백준  | 1475  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |        [방 번호](https://www.acmicpc.net/problem/1475)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1475.java)  |
+| 백준  | 3273  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |       [두 수의 합](https://www.acmicpc.net/problem/3273)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3273.java)  |
 
 </details>
 
