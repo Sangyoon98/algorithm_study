@@ -104,6 +104,7 @@
 | 백준  | 1158  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |       [요세푸스 문제](https://www.acmicpc.net/problem/1158)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1158.java)  |
 | 백준  | 2493  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |          [탑](https://www.acmicpc.net/problem/2493)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2493.java)  |
 | 백준  | 10866 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |         [덱](https://www.acmicpc.net/problem/10866)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10866.java) |
+| 백준  | 1021  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |       [회전하는 큐](https://www.acmicpc.net/problem/1021)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1021.java)  |
 
 </details>
 
@@ -128,6 +129,8 @@
 | 프로그래머스 | 120804 |       [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120804.java) |
 | 프로그래머스 | 120810 |      [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120810.java) |
 | 프로그래머스 | 120806 |      [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120806.java) |
+| 프로그래머스 | 12925  |    [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12925.java)  |
+| 프로그래머스 | 12932  |   [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12932.java)  |
 
 </details>
 
