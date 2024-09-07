@@ -2,18 +2,18 @@ package programmers;
 
 import java.util.Arrays;
 
-class B181888 {
+class P181888 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{4, 2, 6, 1, 7, 6};
         int n1 = 2;
         int[] answer1 = new int[]{4, 6, 7};
-        int[] result1 = new programmers.B181888().solution(num_list1, n1);
+        int[] result1 = new P181888().solution(num_list1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{4, 2, 6, 1, 7, 6};
         int n2 = 4;
         int[] answer2 = new int[]{4, 7};
-        int[] result2 = new programmers.B181888().solution(num_list2, n2);
+        int[] result2 = new P181888().solution(num_list2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 
