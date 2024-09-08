@@ -132,6 +132,7 @@
 | 프로그래머스 | 120804 |       [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120804.java) |
 | 프로그래머스 | 120810 |      [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120810.java) |
 | 프로그래머스 | 120806 |      [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120806.java) |
+| 프로그래머스 | 120829 |        [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120829.java) |
 
 </details>
 
