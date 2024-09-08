@@ -107,6 +107,7 @@
 | 백준  | 1021  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |       [회전하는 큐](https://www.acmicpc.net/problem/1021)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1021.java)  |
 | 백준  | 1926  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |         [그림](https://www.acmicpc.net/problem/1926)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1926.java)  |
 | 백준  | 1012  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |       [유기농 배추](https://www.acmicpc.net/problem/1012)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1012.java)  |
+| 백준  | 1697  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |        [숨바꼭질](https://www.acmicpc.net/problem/1697)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1697.java)  |
 
 </details>
 
