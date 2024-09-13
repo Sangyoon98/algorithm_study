@@ -109,6 +109,7 @@
 | 백준  | 1012  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |       [유기농 배추](https://www.acmicpc.net/problem/1012)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1012.java)  |
 | 백준  | 1697  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |        [숨바꼭질](https://www.acmicpc.net/problem/1697)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1697.java)  |
 | 백준  | 4963  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |        [섬의 개수](https://www.acmicpc.net/problem/4963)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4963.java)  |
+| 백준  | 10026 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |        [적록색약](https://www.acmicpc.net/problem/10026)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10026.java) |
 
 </details>
 
