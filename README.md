@@ -112,6 +112,7 @@
 | 백준  | 10026 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |        [적록색약](https://www.acmicpc.net/problem/10026)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10026.java) |
 | 백준  | 6198  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |      [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B6198.java)  |
 | 백준  | 28702 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/>  |      [FizzBuzz](https://www.acmicpc.net/problem/28702)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B28702.java) |
+| 백준  | 1676  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |     [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1676.java)  |
 
 </details>
 
