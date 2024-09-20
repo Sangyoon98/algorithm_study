@@ -140,6 +140,7 @@
 | 프로그래머스 | 120829 |        [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120829.java) |
 | 프로그래머스 | 120831 |       [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120831.java) |
 | 프로그래머스 | 120802 |       [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120802.java) |
+| 프로그래머스 | 120817 |      [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120817.java) |
 
 </details>
 
