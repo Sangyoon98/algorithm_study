@@ -111,8 +111,6 @@
 | 백준  | 4963  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |        [섬의 개수](https://www.acmicpc.net/problem/4963)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4963.java)  |
 | 백준  | 10026 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |        [적록색약](https://www.acmicpc.net/problem/10026)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10026.java) |
 | 백준  | 6198  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |      [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B6198.java)  |
-| 백준  | 28702 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/>  |      [FizzBuzz](https://www.acmicpc.net/problem/28702)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B28702.java) |
-| 백준  | 1676  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |     [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1676.java)  |
 
 </details>
 
@@ -140,8 +138,7 @@
 | 프로그래머스 | 120829 |        [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120829.java) |
 | 프로그래머스 | 120831 |       [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120831.java) |
 | 프로그래머스 | 120802 |       [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120802.java) |
-| 프로그래머스 | 120817 |      [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120817.java) |
-
+| 프로그래머스 | 12933  |   [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12933.java)  |
 </details>
 
 ## SWEA
