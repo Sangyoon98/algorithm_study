@@ -142,6 +142,7 @@
 | 프로그래머스 | 12933  |   [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12933.java)  |
 | 프로그래머스 | 120898 |         [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120898.java) |
 | 프로그래머스 | 120826 |     [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120826.java) |
+| 프로그래머스 | 120824 |      [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120824.java) |
 </details>
 
 ## SWEA
