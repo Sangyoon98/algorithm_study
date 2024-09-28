@@ -144,6 +144,10 @@
 | 프로그래머스 | 120826 |     [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120826.java) |
 | 프로그래머스 | 120824 |      [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120824.java) |
 | 프로그래머스 | 120854 |     [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120854.java) |
+| 프로그래머스 | 12934  |      [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12934.java)  |
+| 프로그래머스 | 12947  |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12947.java)  |
+| 프로그래머스 | 12912  |     [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12912.java)  |
+| 프로그래머스 | 12919  |     [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12919.java)  |
 </details>
 
 ## SWEA
