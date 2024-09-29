@@ -148,6 +148,12 @@
 | 프로그래머스 | 12947  |        [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12947.java)  |
 | 프로그래머스 | 12912  |     [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12912.java)  |
 | 프로그래머스 | 12919  |     [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12919.java)  |
+| 프로그래머스 | 120910 |       [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120910.java) |
+| 프로그래머스 | 120822 |      [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120822.java) |
+| 프로그래머스 | 181937 |       [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181937.java) |
+| 프로그래머스 | 120583 |     [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120583.java) |
+| 프로그래머스 | 120585 |    [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120585.java) |
+| 프로그래머스 | 120830 |        [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120830.java) |
 </details>
 
 ## SWEA
