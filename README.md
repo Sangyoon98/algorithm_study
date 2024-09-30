@@ -159,6 +159,9 @@
 | 프로그래머스 | 120909 |      [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120909.java) |
 | 프로그래머스 | 120811 |      [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120811.java) |
 | 프로그래머스 | 120813 |      [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120813.java) |
+| 프로그래머스 | 120814 |    [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120814.java) |
+| 프로그래머스 | 120818 |     [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120818.java) |
+| 프로그래머스 | 120819 |     [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120819.java) |
 </details>
 
 ## SWEA
