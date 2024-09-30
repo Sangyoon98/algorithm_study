@@ -154,6 +154,11 @@
 | 프로그래머스 | 120583 |     [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120583.java) |
 | 프로그래머스 | 120585 |    [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120585.java) |
 | 프로그래머스 | 120830 |        [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120830.java) |
+| 프로그래머스 | 120847 |    [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120847.java) |
+| 프로그래머스 | 120809 |     [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120809.java) |
+| 프로그래머스 | 120909 |      [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120909.java) |
+| 프로그래머스 | 120811 |      [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120811.java) |
+| 프로그래머스 | 120813 |      [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120813.java) |
 </details>
 
 ## SWEA
