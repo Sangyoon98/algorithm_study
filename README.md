@@ -162,6 +162,14 @@
 | 프로그래머스 | 120814 |    [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120814.java) |
 | 프로그래머스 | 120818 |     [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120818.java) |
 | 프로그래머스 | 120819 |     [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120819.java) |
+| 프로그래머스 | 120837 |       [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120837.java) |
+| 프로그래머스 | 120851 |  [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120851.java) |
+| 프로그래머스 | 120893 |      [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120893.java) |
+| 프로그래머스 | 120899 |     [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120899.java) |
+| 프로그래머스 | 120905 |     [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120905.java) |
+| 프로그래머스 | 120839 |      [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120839.java) |
+| 프로그래머스 | 120823 |     [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120823.java) |
+| 프로그래머스 | 120821 |       [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120821.java) |
 </details>
 
 ## SWEA
