@@ -184,7 +184,15 @@
 | 프로그래머스 | 181944 |      [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181944.java) |
 | 프로그래머스 | 181920 |       [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181920.java) |
 | 프로그래머스 | 181835 |  [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181835.java) |
-| 프로그래머스 | 181841 |       [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181841.java)  |
+| 프로그래머스 | 181841 |       [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181841.java) |
+| 프로그래머스 | 120908 |     [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120908.java) |
+| 프로그래머스 | 120903 |      [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120903.java) |
+| 프로그래머스 | 120841 |     [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120841.java) |
+| 프로그래머스 | 120816 |    [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120816.java) |
+| 프로그래머스 | 120845 |      [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120845.java) |
+| 프로그래머스 | 120906 |      [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120906.java) |
+| 프로그래머스 | 120897 |       [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120897.java) |
+| 프로그래머스 | 120895 |      [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120895.java) |
 </details>
 
 ## SWEA
