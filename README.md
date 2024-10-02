@@ -193,6 +193,10 @@
 | 프로그래머스 | 120906 |      [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120906.java) |
 | 프로그래머스 | 120897 |       [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120897.java) |
 | 프로그래머스 | 120895 |      [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120895.java) |
+| 프로그래머스 | 120849 |       [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120849.java) |
+| 프로그래머스 | 120833 |       [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120833.java) |
+| 프로그래머스 | 120889 |   [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120889.java) |
+| 프로그래머스 | 120862 |     [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120862.java) |
 </details>
 
 ## SWEA
