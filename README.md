@@ -209,6 +209,17 @@
 | 프로그래머스 | 120834 |      [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120834.java) |
 | 프로그래머스 | 120846 |       [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120846.java) |
 | 프로그래머스 | 120888 |     [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120888.java) |
+| 프로그래머스 | 120842 |     [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120842.java) |
+| 프로그래머스 | 120835 |     [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120835.java) |
+| 프로그래머스 | 120848 |        [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120848.java) |
+| 프로그래머스 | 120864 |  [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120864.java) |
+| 프로그래머스 | 120886 |      [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120886.java) |
+| 프로그래머스 | 120890 |       [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120890.java) |
+| 프로그래머스 | 120887 |       [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120887.java) |
+| 프로그래머스 | 120896 |    [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120896.java) |
+| 프로그래머스 | 120838 |      [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120838.java) |
+| 프로그래머스 | 120912 |       [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120912.java) |
+| 프로그래머스 | 120853 |       [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120853.java) |
 </details>
 
 ## SWEA
