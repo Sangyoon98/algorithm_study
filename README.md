@@ -220,6 +220,7 @@
 | 프로그래머스 | 120838 |      [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120838.java) |
 | 프로그래머스 | 120912 |       [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120912.java) |
 | 프로그래머스 | 120853 |       [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120853.java) |
+| 프로그래머스 | 120852 |       [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120852.java) |
 </details>
 
 ## SWEA
