@@ -223,6 +223,7 @@
 | 프로그래머스 | 120852 |       [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120852.java) |
 | 프로그래머스 | 120885 |      [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120885.java) |
 | 프로그래머스 | 120913 |    [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120913.java) |
+| 프로그래머스 | 120843 |       [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120843.java) |
 </details>
 
 ## SWEA
