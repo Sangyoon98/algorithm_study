@@ -229,6 +229,7 @@
 | 프로그래머스 | 181887 |      [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181887.java) |
 | 프로그래머스 | 181840 |       [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181840.java) |
 | 프로그래머스 | 120894 |      [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120894.java) |
+| 프로그래머스 | 120840 |   [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120840.java) |
 </details>
 
 ## SWEA
