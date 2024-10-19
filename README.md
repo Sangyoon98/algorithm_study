@@ -232,6 +232,7 @@
 | 프로그래머스 | 120840 |   [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120840.java) |
 | 프로그래머스 | 120868 |   [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120868.java) |
 | 프로그래머스 | 120869 |       [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120869.java) |
+| 프로그래머스 | 120861 |      [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120861.java) |
 </details>
 
 ## SWEA
