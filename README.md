@@ -237,6 +237,7 @@
 | 프로그래머스 | 181839 |      [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181839.java) |
 | 프로그래머스 | 181843 |   [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181843.java) |
 | 프로그래머스 | 181845 |      [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181845.java) |
+| 프로그래머스 | 181847 |        [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181847.java) |
 </details>
 
 ## SWEA
