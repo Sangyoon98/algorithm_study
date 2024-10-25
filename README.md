@@ -240,6 +240,9 @@
 | 프로그래머스 | 181847 |        [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181847.java) |
 | 프로그래머스 | 181848 |   [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181848.java) |
 | 프로그래머스 | 181849 |     [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181849.java) |
+| 프로그래머스 | 181850 |       [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181850.java) |
+| 프로그래머스 | 181852 |     [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181852.java) |
+| 프로그래머스 | 181853 |      [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181853.java) |
 </details>
 
 ## SWEA
