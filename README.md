@@ -248,6 +248,7 @@
 | 프로그래머스 | 181861 |   [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181861.java) |
 | 프로그래머스 | 181863 |     [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181863.java) |
 | 프로그래머스 | 181864 |     [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181864.java) |
+| 프로그래머스 | 181868 |    [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181868.java) |
 </details>
 
 ## SWEA
