@@ -252,6 +252,8 @@
 | 프로그래머스 | 181869 |    [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181869.java) |
 | 프로그래머스 | 181873 |  [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181873.java) |
 | 프로그래머스 | 181874 |       [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181874.java) |
+| 프로그래머스 | 181875 | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181875.java) |
+| 프로그래머스 | 181878 |     [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181878.java) |
 </details>
 
 ## SWEA
