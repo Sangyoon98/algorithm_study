@@ -256,6 +256,7 @@
 | 프로그래머스 | 181878 |     [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181878.java) |
 | 프로그래머스 | 181885 |       [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181885.java) |
 | 프로그래머스 | 181886 |        [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181886.java) |
+| 프로그래머스 | 181889 |     [n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181889.java) |
 </details>
 
 ## SWEA
