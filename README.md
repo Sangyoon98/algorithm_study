@@ -259,6 +259,7 @@
 | 프로그래머스 | 181889 |     [n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181889.java) |
 | 프로그래머스 | 181891 |       [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181891.java) |
 | 프로그래머스 | 181892 |     [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181892.java) |
+| 프로그래머스 | 181896 |    [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181896.java) |
 </details>
 
 ## SWEA
