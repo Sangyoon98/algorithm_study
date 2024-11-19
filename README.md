@@ -263,6 +263,7 @@
 | 프로그래머스 | 181899 |       [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181899.java) |
 | 프로그래머스 | 181906 |     [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181906.java) |
 | 프로그래머스 | 181909 |       [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181909.java) |
+| 프로그래머스 | 12906  |      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12906.java)  |
 </details>
 
 ## SWEA
