@@ -112,6 +112,8 @@
 | 백준  | 10026 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |        [적록색약](https://www.acmicpc.net/problem/10026)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10026.java) |
 | 백준  | 6198  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |      [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B6198.java)  |
 | 백준  | 2558  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |       [A+B - 2](https://www.acmicpc.net/problem/2558)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2558.java)  |
+| 백준  | 17478 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |     [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B17478.java) |
+| 백준  | 2606  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |        [바이러스](https://www.acmicpc.net/problem/2606)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2606.java)  |
 
 </details>
 
