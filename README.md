@@ -114,6 +114,9 @@
 | 백준  | 2558  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |       [A+B - 2](https://www.acmicpc.net/problem/2558)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2558.java)  |
 | 백준  | 17478 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |     [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B17478.java) |
 | 백준  | 2606  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |        [바이러스](https://www.acmicpc.net/problem/2606)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2606.java)  |
+| 백준  | 1325  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |       [효율적인 해킹](https://www.acmicpc.net/problem/1325)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1325.java)  |
+| 백준  | 3059  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |    [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3059.java)  |
+| 백준  | 11725 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |      [트리의 부모찾기](https://www.acmicpc.net/problem/11725)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11725.java) |
 
 </details>
 

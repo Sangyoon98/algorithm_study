@@ -26,6 +26,7 @@ public class B2606 {
         }
 
         dfs(1);
+        System.out.println(count - 1);
     }
 
     public static void dfs(int start) {
