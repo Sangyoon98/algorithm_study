@@ -117,6 +117,7 @@
 | 백준  | 1325  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |       [효율적인 해킹](https://www.acmicpc.net/problem/1325)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1325.java)  |
 | 백준  | 3059  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |    [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3059.java)  |
 | 백준  | 11725 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |      [트리의 부모찾기](https://www.acmicpc.net/problem/11725)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11725.java) |
+| 백준  | 1260  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |      [DFS와 BFS](https://www.acmicpc.net/problem/1260)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1260.java)  |
 
 </details>
 
@@ -269,6 +270,12 @@
 | 프로그래머스 | 181906 |     [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181906.java) |
 | 프로그래머스 | 181909 |       [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181909.java) |
 | 프로그래머스 | 12906  |      [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12906.java)  |
+| 프로그래머스 | 42747  |       [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42747.java)  |
+| 프로그래머스 | 43165  |        [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P43165.java)  |
+| 프로그래머스 |  1844  |      [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P1844.java)  |
+| 프로그래머스 | 86491  |       [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P86491.java)  |
+| 프로그래머스 | 42840  |        [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42840.java)  |
+| 프로그래머스 | 42576  |     [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42576.java)  |
 </details>
 
 ## SWEA

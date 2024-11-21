@@ -4,53 +4,61 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class Practice {
-    public static int N, M;
-    public static int[][] map;
-    public static boolean[][] visited;
-    public static int[] dx = {-1, 1, 0, 0};
-    public static int[] dy = {0, 0, -1, 1};
+    public static int[][] graph;
+    public static boolean[] visited;
+    public static int NODE, LINE, START;
+    public static Queue<Integer> queue = new LinkedList<>();
+    public static StringBuilder sb = new StringBuilder();
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        NODE = Integer.parseInt(st.nextToken());
+        LINE = Integer.parseInt(st.nextToken());
+        START = Integer.parseInt(st.nextToken());
 
-        N = Integer.parseInt(st.nextToken());
-        M = Integer.parseInt(st.nextToken());
+        graph = new int[NODE + 1][NODE + 1];
+        visited = new boolean[NODE + 1];
 
-        map = new int[N][M];
-        visited = new boolean[N][M];
-
-        for (int i = 0; i < N; i++) {
-            String[] line = br.readLine().split("");
-            for (int j = 0; j < M; j++) {
-                map[i][j] = Integer.parseInt(line[j]);
-            }
+        for(int i = 0; i < LINE; i++) {
+            st = new StringTokenizer(br.readLine(), " ");
+            int a = Integer.parseInt(st.nextToken());
+            int b = Integer.parseInt(st.nextToken());
+            graph[a][b] = graph[b][a] = 1;
         }
 
-        visited[0][0] = true;
-        bfs(0, 0);
-        System.out.println(map[N - 1][M - 1]);
+        dfs(START);
+        sb.append("\n");
+        visited = new boolean[NODE + 1];
+        bfs(START);
+
+        System.out.println(sb);
     }
 
-    public static void bfs(int x, int y) {
-        Queue<int[]> queue = new LinkedList<>();
-        queue.add(new int[] {x, y});
+    public static void dfs(int start) {
+        visited[start] = true;
+        sb.append(start).append(" ");
 
-        while (!queue.isEmpty()) {
-            int[] now = queue.poll();
-            int nowX = now[0];
-            int nowY = now[1];
+        for (int i = 0; i <= NODE; i++) {
+            if(graph[start][i] == 1 && !visited[i]) {
+                dfs(i);
+            }
+        }
+    }
 
-            for (int i = 0; i < 4; i++) {
-                int nextX = nowX + dx[i];
-                int nextY = nowY + dy[i];
+    public static void bfs(int start) {
+        queue.add(start);
+        visited[start] = true;
 
-                if (nextX < 0 || nextY < 0 || nextX >= N || nextY >= M) continue;
-                if (visited[nextX][nextY] || map[nextX][nextY] == 0) continue;
+        while(!queue.isEmpty()) {
+            start = queue.poll();
+            sb.append(start).append(" ");
 
-                queue.add(new int[] {nextX, nextY});
-                map[nextX][nextY] = map[nowX][nowY] + 1;
-                visited[nextX][nextY] = true;
+            for (int i = 1; i <= NODE; i++) {
+                if (graph[start][i] == 1 && !visited[i]) {
+                    queue.add(i);
+                    visited[i] = true;
+                }
             }
         }
     }
