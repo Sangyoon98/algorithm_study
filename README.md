@@ -276,6 +276,7 @@
 | 프로그래머스 | 86491  |       [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P86491.java)  |
 | 프로그래머스 | 42840  |        [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42840.java)  |
 | 프로그래머스 | 42576  |     [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42576.java)  |
+| 프로그래머스 | 181936 |         [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181936.java)  |
 </details>
 
 ## SWEA
