@@ -279,6 +279,7 @@
 | 프로그래머스 | 181936 |        [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181936.java) |
 | 프로그래머스 | 181946 |    [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181946.java) |
 | 프로그래머스 | 181844 |    [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181844.java) |
+| 프로그래머스 | 181935 |  [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181935.java) |
 </details>
 
 ## SWEA
