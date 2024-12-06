@@ -285,7 +285,8 @@
 | 프로그래머스 | 181870 |       [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181870.java) |
 | 프로그래머스 | 181867 |       [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181867.java) |
 | 프로그래머스 | 181834 |        [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181834.java) |
-| 프로그래머스 | 181898  |       [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181898.java)  |
+| 프로그래머스 | 181898 |       [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181898.java) |
+| 프로그래머스 | 181925 |       [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181925.java) |
 </details>
 
 ## SWEA
