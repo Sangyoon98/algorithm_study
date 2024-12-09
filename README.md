@@ -289,6 +289,7 @@
 | 프로그래머스 | 181925 |       [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181925.java) |
 | 프로그래머스 | 181919 |      [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181919.java) |
 | 프로그래머스 | 181865 |      [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181865.java) |
+| 프로그래머스 | 181928 |       [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181928.java) |
 </details>
 
 ## SWEA
