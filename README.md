@@ -294,7 +294,9 @@
 | 프로그래머스 | 181914 |      [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181914.java) |
 | 프로그래머스 | 181945 |       [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181945.java) |
 | 프로그래머스 | 181930 |       [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181930.java) |
-| 프로그래머스 | 181947 |       [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181947.java)  |
+| 프로그래머스 | 181947 |       [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181947.java) |
+| 프로그래머스 | 181833 |     [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181833.java) |
+| 프로그래머스 | 181831 |     [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181831.java) |
 </details>
 
 ## SWEA
