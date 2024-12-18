@@ -297,6 +297,8 @@
 | 프로그래머스 | 181947 |       [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181947.java) |
 | 프로그래머스 | 181833 |     [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181833.java) |
 | 프로그래머스 | 181831 |     [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181831.java) |
+| 프로그래머스 | 181829 |   [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181829.java) |
+| 프로그래머스 | 181866  |     [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181866.java) |
 </details>
 
 ## SWEA
