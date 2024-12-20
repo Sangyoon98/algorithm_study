@@ -300,7 +300,9 @@
 | 프로그래머스 | 181829 |   [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181829.java) |
 | 프로그래머스 | 181866 |     [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181866.java) |
 | 프로그래머스 | 181904 |        [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181904.java) |
-| 프로그래머스 | 181931  |   [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181931.java) |
+| 프로그래머스 | 181931 |   [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181931.java) |
+| 프로그래머스 | 181942 |        [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181942.java) |
+| 프로그래머스 | 181900 |        [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181900.java) |
 </details>
 
 ## SWEA
