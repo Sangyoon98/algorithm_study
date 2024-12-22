@@ -303,6 +303,8 @@
 | 프로그래머스 | 181931 |   [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181931.java) |
 | 프로그래머스 | 181942 |        [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181942.java) |
 | 프로그래머스 | 181900 |        [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181900.java) |
+| 프로그래머스 | 181883 |     [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181883.java) |
+| 프로그래머스 | 12910  |    [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12910.java)  |
 </details>
 
 ## SWEA
