@@ -306,6 +306,8 @@
 | 프로그래머스 | 181883 |     [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181883.java) |
 | 프로그래머스 | 12910  |    [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12910.java)  |
 | 프로그래머스 | 76501  |        [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P76501.java)  |
+| 프로그래머스 | 181838 |       [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181838.java) |
+| 프로그래머스 | 86051  |       [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P86051.java)  |
 </details>
 
 ## SWEA
