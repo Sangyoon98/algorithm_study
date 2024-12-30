@@ -315,7 +315,8 @@
 | 프로그래머스 | 181880 |           [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)           | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181880.java) |
 | 프로그래머스 | 181905 |          [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)           | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181905.java) |
 | 프로그래머스 | 181912 |          [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181912.java) |
-| 프로그래머스 | 181924 |         [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181924.java)  |
+| 프로그래머스 | 181924 |        [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181924.java) |
+| 프로그래머스 | 181935 |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181935.java) |
 </details>
 
 ## SWEA
