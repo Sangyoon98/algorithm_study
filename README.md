@@ -317,6 +317,8 @@
 | 프로그래머스 | 181912 |          [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181912.java) |
 | 프로그래머스 | 181924 |        [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181924.java) |
 | 프로그래머스 | 181935 |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181935.java) |
+| 프로그래머스 | 12948  |         [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12948.java)  |
+| 프로그래머스 | 70128  |             [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)              | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java)  |
 </details>
 
 ## SWEA
