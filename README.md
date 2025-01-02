@@ -319,6 +319,7 @@
 | 프로그래머스 | 181935 |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181935.java) |
 | 프로그래머스 | 12948  |         [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12948.java)  |
 | 프로그래머스 | 70128  |             [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)              | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java)  |
+| 프로그래머스 | 12943  |           [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)            | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12943.java)  |
 </details>
 
 ## SWEA
