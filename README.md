@@ -5,7 +5,7 @@
 ## 백준
 
 <details>
-<summary>백준 문제 리스트</summary>
+<summary>2024년</summary>
 
 | 사이트 |  문제   |                                          티어                                           |                            문제 제목                            |                                            정답 코드                                             |
 |:---:|:-----:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
@@ -121,10 +121,18 @@
 
 </details>
 
+<details>
+<summary>2025년</summary>
+
+| 사이트 |  문제   |                                          티어                                           |                            문제 제목                            |                                            정답 코드                                             |
+|:---:|:-----:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+
+</details>
+
 ## 프로그래머스
 
 <details>
-<summary>프로그래머스 문제 리스트</summary> 
+<summary>2024년</summary> 
 
 |  사이트   |   문제   |                                             문제 제목                                              |                                              정답 코드                                               |
 |:------:|:------:|:----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
@@ -317,9 +325,18 @@
 | 프로그래머스 | 181912 |          [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181912.java) |
 | 프로그래머스 | 181924 |        [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181924.java) |
 | 프로그래머스 | 181935 |        [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181935.java) |
+
+</details>
+
+<details>
+<summary>2025년</summary> 
+
+|  사이트   |   문제   |                                             문제 제목                                              |                                              정답 코드                                               |
+|:------:|:------:|:----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 | 프로그래머스 | 12948  |         [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12948.java)  |
 | 프로그래머스 | 70128  |             [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)              | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java)  |
 | 프로그래머스 | 12943  |           [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)            | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12943.java)  |
+
 </details>
 
 ## SWEA
