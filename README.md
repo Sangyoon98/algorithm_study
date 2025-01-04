@@ -124,9 +124,10 @@
 <details>
 <summary>2025년</summary>
 
-| 사이트 |  문제  |                                          티어                                          |                     문제 제목                     |                                            정답 코드                                            |
-|:---:|:----:|:------------------------------------------------------------------------------------:|:---------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-| 백준  | 4673 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4673.java) |
+| 사이트 |  문제   |                                          티어                                          |                        문제 제목                        |                                            정답 코드                                             |
+|:---:|:-----:|:------------------------------------------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| 백준  | 4673  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [셀프 넘버](https://www.acmicpc.net/problem/4673)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4673.java)  |
+| 백준  | 11659 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11659.java) |
 
 </details>
 
@@ -338,6 +339,7 @@
 | 프로그래머스 | 70128  |     [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java)  |
 | 프로그래머스 | 12943  |   [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12943.java)  |
 | 프로그래머스 | 181855 |  [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181855.java) |
+| 프로그래머스 | 181862 |  [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181862.java) |
 
 </details>
 
