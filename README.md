@@ -129,6 +129,7 @@
 | 백준  | 4673  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [셀프 넘버](https://www.acmicpc.net/problem/4673)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4673.java)  |
 | 백준  | 11659 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11659.java) |
 | 백준  | 18110 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> | [solved.ac](https://www.acmicpc.net/problem/18110)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B18110.java) |
+| 백준  | 1966  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> |    [프린터 큐](https://www.acmicpc.net/problem/1966)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1966.java)  |
 
 </details>
 
@@ -342,6 +343,7 @@
 | 프로그래머스 | 181855 |  [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181855.java) |
 | 프로그래머스 | 181862 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181862.java) |
 | 프로그래머스 | 181917 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181917.java) |
+| 프로그래머스 | 181894 |   [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181894.java) |
 
 </details>
 
