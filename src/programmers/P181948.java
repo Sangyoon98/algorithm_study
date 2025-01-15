@@ -1,0 +1,7 @@
+package programmers;
+
+public class P181948 {
+    public static void main(String[] args) {
+        System.out.print("!@#$%^&*(\\'\"<>?:;");
+    }
+}

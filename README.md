@@ -138,6 +138,7 @@
 | 백준  | 1476  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [날짜 계산](https://www.acmicpc.net/problem/1476)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1476.java)  |
 | 백준  | 9655  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [돌 게임](https://www.acmicpc.net/problem/9655)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9655.java)  |
 | 백준  | 1439  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [뒤집기](https://www.acmicpc.net/problem/1439)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1439.java)  |
+| 백준  | 11004 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |   [K번째 수](https://www.acmicpc.net/problem/11004)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11004.java) |
 
 </details>
 
@@ -360,7 +361,8 @@
 | 프로그래머스 | 181837 |      [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181837.java) |
 | 프로그래머스 | 181881 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181881.java) |
 | 프로그래머스 | 181903 |     [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181903.java) |
-| 프로그래머스 | 181922  |   [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181922.java) |
+| 프로그래머스 | 181922 |   [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181922.java) |
+| 프로그래머스 | 181948  |    [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181948.java) |
 
 </details>
 
