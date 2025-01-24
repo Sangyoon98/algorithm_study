@@ -146,6 +146,7 @@
 | 백준  | 10867 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> | [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10867.java) |
 | 백준  | 2161  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [카드1](https://www.acmicpc.net/problem/2161)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2161.java)  |
 | 백준  | 1543  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [문서 검색](https://www.acmicpc.net/problem/1543)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1543.java)  |
+| 백준  | 2822  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [점수 계산](https://www.acmicpc.net/problem/2822)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2822.java)  |
 
 </details>
 
@@ -377,6 +378,7 @@
 | 프로그래머스 | 181902 |     [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181902.java) |
 | 프로그래머스 | 181846 |      [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181846.java) |
 | 프로그래머스 | 181913 |   [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181913.java) |
+| 프로그래머스 | 181918 |     [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181918.java) |
 
 </details>
 
