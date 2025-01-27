@@ -148,6 +148,7 @@
 | 백준  | 1543  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [문서 검색](https://www.acmicpc.net/problem/1543)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1543.java)  |
 | 백준  | 2822  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [점수 계산](https://www.acmicpc.net/problem/2822)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2822.java)  |
 | 백준  | 11931 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |  [수 정렬하기 4](https://www.acmicpc.net/problem/11931)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11931.java) |
+| 백준  | 11399 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |    [ATM](https://www.acmicpc.net/problem/11399)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11399.java) |
 
 </details>
 
@@ -380,7 +381,8 @@
 | 프로그래머스 | 181846 |      [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181846.java) |
 | 프로그래머스 | 181913 |   [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181913.java) |
 | 프로그래머스 | 181918 |     [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181918.java) |
-| 프로그래머스 | 181934 |      [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181934.java)  |
+| 프로그래머스 | 181934 |      [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181934.java) |
+| 프로그래머스 | 12918  |    [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12918.java)  |
 
 </details>
 
