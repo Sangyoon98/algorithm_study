@@ -153,6 +153,7 @@
 | 백준  | 1026  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |     [보물](https://www.acmicpc.net/problem/1026)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1026.java)  |
 | 백준  | 2217  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |     [로프](https://www.acmicpc.net/problem/2217)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2217.java)  |
 | 백준  | 2003  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |   [수들의 합 2](https://www.acmicpc.net/problem/2003)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2003.java)  |
+| 백준  | 10610 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |     [30](https://www.acmicpc.net/problem/10610)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10610.java)  |
 
 </details>
 
@@ -391,6 +392,7 @@
 | 프로그래머스 | 181858 |  [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181858.java) |
 | 프로그래머스 | 181923 |   [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181923.java) |
 | 프로그래머스 | 12969  |     [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12969.java)  |
+| 프로그래머스 | 12941  |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12941.java)  |
 
 </details>
 
