@@ -155,6 +155,7 @@
 | 백준  | 2003  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |   [수들의 합 2](https://www.acmicpc.net/problem/2003)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2003.java)  |
 | 백준  | 10610 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |     [30](https://www.acmicpc.net/problem/10610)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10610.java) |
 | 백준  | 11656 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |   [접미사 배열](https://www.acmicpc.net/problem/11656)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11656.java) |
+| 백준  | 10825 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |    [국영수](https://www.acmicpc.net/problem/10825)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10825.java) |
 
 </details>
 
@@ -395,6 +396,7 @@
 | 프로그래머스 | 12969  |     [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12969.java)  |
 | 프로그래머스 | 12941  |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12941.java)  |
 | 프로그래머스 | 12951  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12951.java)  |
+| 프로그래머스 | 181830 |    [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181830.java) |
 
 </details>
 
