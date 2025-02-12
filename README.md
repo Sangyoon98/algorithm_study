@@ -158,6 +158,7 @@
 | 백준  | 10825 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |    [국영수](https://www.acmicpc.net/problem/10825)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10825.java) |
 | 백준  | 1302  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |    [베스트셀러](https://www.acmicpc.net/problem/1302)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1302.java)  |
 | 백준  | 1748  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |  [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1748.java)  |
+| 백준  | 1094  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [막대기](https://www.acmicpc.net/problem/1094)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1094.java)  |
 
 </details>
 
@@ -401,6 +402,8 @@
 | 프로그래머스 | 181830 |    [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181830.java) |
 | 프로그래머스 | 181836 |      [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181836.java) |
 | 프로그래머스 | 181943 |     [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181943.java) |
+| 프로그래머스 | 181951 |    [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181951.java) |
+| 프로그래머스 | 12909  |      [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12909.java)  |
 
 </details>
 
