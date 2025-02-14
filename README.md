@@ -160,6 +160,7 @@
 | 백준  | 1748  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |  [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1748.java)  |
 | 백준  | 1094  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [막대기](https://www.acmicpc.net/problem/1094)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1094.java)  |
 | 백준  | 8979  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [올림픽](https://www.acmicpc.net/problem/8979)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B8979.java)  |
+| 백준  | 2579  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |   [계단 오르기](https://www.acmicpc.net/problem/2579)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2579.java)  |
 
 </details>
 
@@ -405,7 +406,8 @@
 | 프로그래머스 | 181943 |     [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181943.java) |
 | 프로그래머스 | 181951 |    [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181951.java) |
 | 프로그래머스 | 12909  |      [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12909.java)  |
-| 프로그래머스 |  12940  |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12940.java)  |
+| 프로그래머스 | 12940  |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12940.java)  |
+| 프로그래머스 | 120922 |      [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120922.java) |
 
 </details>
 
