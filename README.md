@@ -160,7 +160,8 @@
 | 백준  | 1748  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |  [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1748.java)  |
 | 백준  | 1094  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [막대기](https://www.acmicpc.net/problem/1094)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1094.java)  |
 | 백준  | 8979  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |     [올림픽](https://www.acmicpc.net/problem/8979)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B8979.java)  |
-| 백준  | 2579  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |   [계단 오르기](https://www.acmicpc.net/problem/2579)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2579.java)  |
+| 백준  | 2579  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> |   [계단 오르기](https://www.acmicpc.net/problem/2579)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2579.java)  |
+| 백준  | 3986  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |    [좋은 단어](https://www.acmicpc.net/problem/3986)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3986.java)  |
 
 </details>
 
