@@ -164,6 +164,7 @@
 | 백준  | 3986  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/> |        [좋은 단어](https://www.acmicpc.net/problem/3986)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3986.java)  |
 | 백준  | 24313 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24313.java) |
 | 백준  | 2018  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |       [수들의 합 5](https://www.acmicpc.net/problem/2018)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2018.java)  |
+| 백준  | 14501 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |         [퇴사](https://www.acmicpc.net/problem/14501)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14501.java) |
 
 </details>
 
@@ -414,6 +415,7 @@
 | 프로그래머스 | 181851 |   [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181851.java) |
 | 프로그래머스 | 70129  |    [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70129.java)  |
 | 프로그래머스 | 120883 |     [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120883.java) |
+| 프로그래머스 | 147355 |   [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P147355.java) |
 
 </details>
 
