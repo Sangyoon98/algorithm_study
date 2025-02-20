@@ -166,6 +166,7 @@
 | 백준  | 2018  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |       [수들의 합 5](https://www.acmicpc.net/problem/2018)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2018.java)  |
 | 백준  | 14501 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |         [퇴사](https://www.acmicpc.net/problem/14501)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14501.java) |
 | 백준  | 5585  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="20" height="20"/> |        [거스름돈](https://www.acmicpc.net/problem/5585)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5585.java)  |
+| 백준  | 9375  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> |       [패션왕 신해빈](https://www.acmicpc.net/problem/9375)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9375.java)  |
 
 </details>
 
@@ -418,6 +419,7 @@
 | 프로그래머스 | 120883 |     [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120883.java) |
 | 프로그래머스 | 147355 |   [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P147355.java) |
 | 프로그래머스 | 181949 |  [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181949.java) |
+| 프로그래머스 | 12982  |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12982.java)  |
 
 </details>
 
