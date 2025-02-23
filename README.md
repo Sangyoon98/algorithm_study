@@ -169,6 +169,7 @@
 | 백준  | 9375  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/> |       [패션왕 신해빈](https://www.acmicpc.net/problem/9375)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9375.java)  |
 | 백준  | 2669  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> | [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2669.java)  |
 | 백준  | 1343  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |        [폴리오미노](https://www.acmicpc.net/problem/1343)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1343.java)  |
+| 백준  | 5635  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |          [생일](https://www.acmicpc.net/problem/5635)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5635.java)  |
 
 </details>
 
@@ -423,7 +424,8 @@
 | 프로그래머스 | 181949 |  [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181949.java) |
 | 프로그래머스 | 12982  |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12982.java)  |
 | 프로그래머스 | 12924  |      [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12924.java)  |
-| 프로그래머스 | 12930  |    [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12930.java)  |
+| 프로그래머스 | 12930  |    [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12930.java)  |
+| 프로그래머스 | 131705 |       [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P131705.java) |
 
 </details>
 
