@@ -172,6 +172,7 @@
 | 백준  | 5635  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |          [생일](https://www.acmicpc.net/problem/5635)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5635.java)  |
 | 백준  | 9625  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |        [BABBA](https://www.acmicpc.net/problem/9625)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9625.java)  |
 | 백준  | 1652  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |      [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1652.java)  |
+| 백준  | 4659  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |      [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4659.java)  |
 
 </details>
 
@@ -430,6 +431,7 @@
 | 프로그래머스 | 131705 |       [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P131705.java) |
 | 프로그래머스 | 120884 |      [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120884.java) |
 | 프로그래머스 | 120882 |      [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120882.java) |
+| 프로그래머스 | 68935  |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68935.java)  |
 
 </details>
 
