@@ -174,6 +174,7 @@
 | 백준  | 1652  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |      [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1652.java)  |
 | 백준  | 4659  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |      [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4659.java)  |
 | 백준  | 1924  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/> |        [2007년](https://www.acmicpc.net/problem/1924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1924.java)  |
+| 백준  | 1251  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |        [단어 나누기](https://www.acmicpc.net/problem/1251)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1251.java)  |
 
 </details>
 
@@ -434,6 +435,7 @@
 | 프로그래머스 | 120882 |      [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120882.java) |
 | 프로그래머스 | 68935  |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68935.java)  |
 | 프로그래머스 | 12911  |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12911.java)  |
+| 프로그래머스 | 120871 |     [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120871.java) |
 
 </details>
 
