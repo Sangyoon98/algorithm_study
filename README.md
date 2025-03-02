@@ -176,6 +176,7 @@
 | 백준  | 1924  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/> |        [2007년](https://www.acmicpc.net/problem/1924)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1924.java)  |
 | 백준  | 1251  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |        [단어 나누기](https://www.acmicpc.net/problem/1251)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1251.java)  |
 | 백준  | 1312  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |          [소수](https://www.acmicpc.net/problem/1312)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1312.java)  |
+| 백준  | 25757 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25757.java) |
 
 </details>
 
@@ -438,6 +439,7 @@
 | 프로그래머스 | 12911  |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12911.java)  |
 | 프로그래머스 | 120871 |     [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120871.java) |
 | 프로그래머스 | 12973  |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12973.java)  |
+| 프로그래머스 | 120878 |    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120878.java) |
 
 </details>
 
