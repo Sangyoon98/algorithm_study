@@ -179,6 +179,7 @@
 | 백준  | 25757 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |    [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B25757.java) |
 | 백준  | 23971 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/> |       [ZOAC 4](https://www.acmicpc.net/problem/23971)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B23971.java) |
 | 백준  | 2816  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/> |        [디지털 티비](https://www.acmicpc.net/problem/2816)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2816.java)  |
+| 백준  | 1268  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/> |      [임시 반장 정하기](https://www.acmicpc.net/problem/1268)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1268.java)  |
 
 </details>
 
@@ -444,6 +445,7 @@
 | 프로그래머스 | 120878 |    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120878.java) |
 | 프로그래머스 | 120921 |      [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120921.java) |
 | 프로그래머스 | 181921 |     [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181921.java) |
+| 프로그래머스 | 12926  |       [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12926.java)  |
 
 </details>
 
