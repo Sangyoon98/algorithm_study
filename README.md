@@ -185,6 +185,8 @@
 | 백준  | 2468  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                   [안전 영역](https://www.acmicpc.net/problem/2468)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2468.java)  |
 | 백준  | 1260  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  | [<span style="color:orange">DFS와 BFS</span>](https://www.acmicpc.net/problem/1260) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1260_2.java) |
 | 백준  | 4101  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                    [크냐?](https://www.acmicpc.net/problem/4101)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B4101.java)  |
+| 백준  | 1271  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                  [엄청난 부자2](https://www.acmicpc.net/problem/1271)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1271.java)  |
+| 백준  | 2178  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |  [<span style="color:orange">미로 탐색</span>](https://www.acmicpc.net/problem/2178)   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2178.java)  |
 
 </details>
 
@@ -453,6 +455,7 @@
 | 프로그래머스 | 12926  |       [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12926.java)  |
 | 프로그래머스 | 120880 |      [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120880.java) |
 | 프로그래머스 | 142086 |   [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P142086.java) |
+| 프로그래머스 | 181932 |     [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181932.java) |
 
 </details>
 
