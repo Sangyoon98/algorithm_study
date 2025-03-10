@@ -190,7 +190,9 @@
 | 백준  | 24262 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |          [알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)          | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B24262.java)  |
 | 백준  | 11942 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                [고려대는 사랑입니다](https://www.acmicpc.net/problem/11942)                 | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11942.java)  |
 | 백준  | 5337  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                     [웰컴](https://www.acmicpc.net/problem/5337)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5337.java)  |
-| 백준  | 2606  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                    [<span style="color:orange">바이러스</span>](https://www.acmicpc.net/problem/2606)                    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2606_2.java) |
+| 백준  | 2606  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |   [<span style="color:orange">바이러스</span>](https://www.acmicpc.net/problem/2606)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2606_2.java) |
+| 백준  | 5522  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [카드 게임](https://www.acmicpc.net/problem/5522)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5522.java)  |
+| 백준  | 2667  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> | [<span style="color:orange">단지번호붙이기</span>](https://www.acmicpc.net/problem/2667)  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2667.java)  |
 
 </details>
 
@@ -461,6 +463,7 @@
 | 프로그래머스 | 142086 |   [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P142086.java) |
 | 프로그래머스 | 181932 |     [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181932.java) |
 | 프로그래머스 | 42842  |        [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42842.java)  |
+| 프로그래머스 | 68644  |    [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68644.java)  |
 
 </details>
 
