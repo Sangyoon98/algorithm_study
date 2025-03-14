@@ -197,6 +197,7 @@
 | 백준  | 1012  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |  [<span style="color:orange">유기농 배추</span>](https://www.acmicpc.net/problem/1012)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1012_2.java) |
 | 백준  | 2338  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [긴자리 계산](https://www.acmicpc.net/problem/2338)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2338.java)  |
 | 백준  | 2163  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/>  |                  [초콜릿 자르기](https://www.acmicpc.net/problem/2163)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2163.java)  |
+| 백준  | 10039 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |                   [평균 점수](https://www.acmicpc.net/problem/10039)                   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10039.java)  |
 
 </details>
 
@@ -471,6 +472,7 @@
 | 프로그래머스 | 120863 |     [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120863.java) |
 | 프로그래머스 | 181893 |     [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181893.java) |
 | 프로그래머스 | 134240 |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P134240.java) |
+| 프로그래머스 | 132267 |      [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P132267.java) |
 
 </details>
 
