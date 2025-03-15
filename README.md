@@ -403,27 +403,27 @@
 <details>
 <summary>2025년</summary> 
 
-|  사이트   |   문제   |                                        문제 제목                                         |                                              정답 코드                                               |
+|  사이트   |   문제   |                                        문제 제목                                         |                                               정답 코드                                              |
 |:------:|:------:|:------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| 프로그래머스 | 12948  |    [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12948.java)  |
-| 프로그래머스 | 70128  |        [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java)  |
-| 프로그래머스 | 12943  |      [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12943.java)  |
+| 프로그래머스 | 12948  |    [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12948.java) |
+| 프로그래머스 | 70128  |        [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)         |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70128.java) |
+| 프로그래머스 | 12943  |      [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12943.java) |
 | 프로그래머스 | 181855 |      [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181855.java) |
 | 프로그래머스 | 181862 |     [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181862.java) |
 | 프로그래머스 | 181917 |    [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181917.java) |
 | 프로그래머스 | 181894 |      [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181894.java) |
 | 프로그래머스 | 181897 |     [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181897.java) |
 | 프로그래머스 | 181950 |  [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181950.java) |
-| 프로그래머스 | 12903  |    [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12903.java)  |
-| 프로그래머스 | 12922  |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12922.java)  |
-| 프로그래머스 | 77884  |    [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P77884.java)  |
+| 프로그래머스 | 12903  |    [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12903.java) |
+| 프로그래머스 | 12922  |   [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12922.java) |
+| 프로그래머스 | 77884  |    [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P77884.java) |
 | 프로그래머스 | 181837 |      [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181837.java) |
 | 프로그래머스 | 181881 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181881.java) |
 | 프로그래머스 | 181903 |     [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181903.java) |
 | 프로그래머스 | 181922 |   [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181922.java) |
 | 프로그래머스 | 181948 |    [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181948.java) |
-| 프로그래머스 | 12917  |  [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12917.java)  |
-| 프로그래머스 | 82612  |    [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P82612.java)  |
+| 프로그래머스 | 12917  |  [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12917.java) |
+| 프로그래머스 | 82612  |    [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P82612.java) |
 | 프로그래머스 | 181859 |     [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181859.java) |
 | 프로그래머스 | 181890 |      [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181890.java) |
 | 프로그래머스 | 181902 |     [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181902.java) |
@@ -431,48 +431,49 @@
 | 프로그래머스 | 181913 |   [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181913.java) |
 | 프로그래머스 | 181918 |     [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181918.java) |
 | 프로그래머스 | 181934 |      [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181934.java) |
-| 프로그래머스 | 12918  |    [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12918.java)  |
-| 프로그래머스 | 12950  |      [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12950.java)  |
+| 프로그래머스 | 12918  |    [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12918.java) |
+| 프로그래머스 | 12950  |      [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12950.java) |
 | 프로그래머스 | 181858 |  [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181858.java) |
 | 프로그래머스 | 181923 |   [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181923.java) |
-| 프로그래머스 | 12969  |     [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12969.java)  |
-| 프로그래머스 | 12941  |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12941.java)  |
-| 프로그래머스 | 12951  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12951.java)  |
+| 프로그래머스 | 12969  |     [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12969.java) |
+| 프로그래머스 | 12941  |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12941.java) |
+| 프로그래머스 | 12951  | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12951.java) |
 | 프로그래머스 | 181830 |    [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181830.java) |
 | 프로그래머스 | 181836 |      [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181836.java) |
 | 프로그래머스 | 181943 |     [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181943.java) |
 | 프로그래머스 | 181951 |    [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181951.java) |
-| 프로그래머스 | 12909  |      [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12909.java)  |
-| 프로그래머스 | 12940  |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12940.java)  |
+| 프로그래머스 | 12909  |      [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12909.java) |
+| 프로그래머스 | 12940  |   [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12940.java) |
 | 프로그래머스 | 120922 |      [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120922.java) |
 | 프로그래머스 | 181851 |   [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181851.java) |
-| 프로그래머스 | 70129  |    [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70129.java)  |
+| 프로그래머스 | 70129  |    [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P70129.java) |
 | 프로그래머스 | 120883 |     [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120883.java) |
 | 프로그래머스 | 147355 |   [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P147355.java) |
 | 프로그래머스 | 181949 |  [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181949.java) |
-| 프로그래머스 | 12982  |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12982.java)  |
-| 프로그래머스 | 12924  |      [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12924.java)  |
-| 프로그래머스 | 12930  |    [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12930.java)  |
+| 프로그래머스 | 12982  |        [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)         |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12982.java) |
+| 프로그래머스 | 12924  |      [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12924.java) |
+| 프로그래머스 | 12930  |    [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12930.java) |
 | 프로그래머스 | 131705 |       [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P131705.java) |
 | 프로그래머스 | 120884 |      [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120884.java) |
 | 프로그래머스 | 120882 |      [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120882.java) |
-| 프로그래머스 | 68935  |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68935.java)  |
-| 프로그래머스 | 12911  |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12911.java)  |
+| 프로그래머스 | 68935  |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68935.java) |
+| 프로그래머스 | 12911  |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12911.java) |
 | 프로그래머스 | 120871 |     [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120871.java) |
-| 프로그래머스 | 12973  |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12973.java)  |
+| 프로그래머스 | 12973  |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12973.java) |
 | 프로그래머스 | 120878 |    [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120878.java) |
 | 프로그래머스 | 120921 |      [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120921.java) |
 | 프로그래머스 | 181921 |     [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181921.java) |
-| 프로그래머스 | 12926  |       [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12926.java)  |
+| 프로그래머스 | 12926  |       [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)       |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12926.java) |
 | 프로그래머스 | 120880 |      [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120880.java) |
 | 프로그래머스 | 142086 |   [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P142086.java) |
 | 프로그래머스 | 181932 |     [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181932.java) |
-| 프로그래머스 | 42842  |        [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42842.java)  |
-| 프로그래머스 | 68644  |    [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68644.java)  |
+| 프로그래머스 | 42842  |        [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)         |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42842.java) |
+| 프로그래머스 | 68644  |    [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P68644.java) |
 | 프로그래머스 | 120863 |     [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120863.java) |
 | 프로그래머스 | 181893 |     [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181893.java) |
 | 프로그래머스 | 134240 |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P134240.java) |
 | 프로그래머스 | 132267 |      [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P132267.java) |
+| 프로그래머스 | 181952 |     [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P181952.java) |
 
 </details>
 
