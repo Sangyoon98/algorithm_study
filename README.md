@@ -198,6 +198,7 @@
 | 백준  | 2338  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [긴자리 계산](https://www.acmicpc.net/problem/2338)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2338.java)  |
 | 백준  | 2163  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/>  |                  [초콜릿 자르기](https://www.acmicpc.net/problem/2163)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2163.java)  |
 | 백준  | 10039 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |                   [평균 점수](https://www.acmicpc.net/problem/10039)                   | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10039.java)  |
+| 백준  | 11053 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |              [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)              | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11053.java)  |
 
 </details>
 
