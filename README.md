@@ -202,6 +202,7 @@
 | 백준  | 2644  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |                    [촌수계산](https://www.acmicpc.net/problem/2644)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2644.java)   |
 | 백준  | 15649 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  | [<span style="color:orange">N과 M (1)</span>](https://www.acmicpc.net/problem/15649) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15649_2.java) |
 | 백준  | 1931  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                   [회의실 배정](https://www.acmicpc.net/problem/1931)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1931.java)   |
+| 백준  | 15650 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                  [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15650.java)  |
 
 </details>
 
@@ -481,6 +482,7 @@
 | 프로그래머스 | 42885  |       [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42885.java)  |
 | 프로그래머스 | 12980  |     [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12980.java)  |
 | 프로그래머스 | 138476 |      [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P138476.java) |
+| 프로그래머스 | 12914  |       [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12914.java)  |
 
 </details>
 
