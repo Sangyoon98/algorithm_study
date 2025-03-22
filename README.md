@@ -203,7 +203,8 @@
 | 백준  | 15649 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  | [<span style="color:orange">N과 M (1)</span>](https://www.acmicpc.net/problem/15649) | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15649_2.java) |
 | 백준  | 1931  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                   [회의실 배정](https://www.acmicpc.net/problem/1931)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1931.java)   |
 | 백준  | 15650 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                  [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15650.java)  |
-| 백준  | 1541  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |                   [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                   |   [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1541.java)   |
+| 백준  | 1541  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |                   [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1541.java)   |
+| 백준  | 1149  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                    [RGB거리](https://www.acmicpc.net/problem/1149)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1149.java)   |
 
 </details>
 
@@ -484,7 +485,8 @@
 | 프로그래머스 | 12980  |     [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12980.java)  |
 | 프로그래머스 | 138476 |      [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P138476.java) |
 | 프로그래머스 | 12914  |       [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12914.java)  |
-| 프로그래머스 | 12953  |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12953.java)  |
+| 프로그래머스 | 12953  |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12953.java)  |
+| 프로그래머스 | 120812 |     [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120812.java) |
 
 </details>
 
