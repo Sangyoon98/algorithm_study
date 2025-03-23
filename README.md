@@ -205,6 +205,7 @@
 | 백준  | 15650 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                  [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15650.java)  |
 | 백준  | 1541  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="20" height="20"/>  |                   [잃어버린 괄호](https://www.acmicpc.net/problem/1541)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1541.java)   |
 | 백준  | 1149  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                    [RGB거리](https://www.acmicpc.net/problem/1149)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1149.java)   |
+| 백준  | 1120  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |                     [문자열](https://www.acmicpc.net/problem/1120)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1120.java)   |
 
 </details>
 
@@ -487,6 +488,7 @@
 | 프로그래머스 | 12914  |       [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12914.java)  |
 | 프로그래머스 | 12953  |     [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12953.java)  |
 | 프로그래머스 | 120812 |     [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120812.java) |
+| 프로그래머스 | 120907 |       [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120907.java) |
 
 </details>
 
