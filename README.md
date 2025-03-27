@@ -209,6 +209,7 @@
 | 백준  | 11652 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |                     [카드](https://www.acmicpc.net/problem/11652)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B11652.java)  |
 | 백준  | 9461  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                   [파도반 수열](https://www.acmicpc.net/problem/9461)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B9461.java)   |
 | 백준  | 14940 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="20" height="20"/> |                  [쉬운 최단거리](https://www.acmicpc.net/problem/14940)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14940.java)  |
+| 백준  | 1417  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |                   [국회의원 선거](https://www.acmicpc.net/problem/1417)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1417.java)   |
 
 </details>
 
@@ -495,6 +496,7 @@
 | 프로그래머스 | 120923 |     [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120923.java) |
 | 프로그래머스 | 120924 |     [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P120924.java) |
 | 프로그래머스 | 12981  |      [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12981.java)  |
+| 프로그래머스 | 12985  |      [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12985.java)  |
 
 </details>
 
