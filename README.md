@@ -215,6 +215,12 @@
 | 백준  | 1244  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |                  [스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1244.java)   |
 | 백준  | 17413 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                  [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B17413.java)  |
 | 백준  | 10817 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="20" height="20"/>  |                    [세 수](https://www.acmicpc.net/problem/10817)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10817.java)  |
+| 백준  | 1032  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="20" height="20"/>  |                   [명령 프롬프트](https://www.acmicpc.net/problem/1032)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1032.java)   |
+| 백준  | 2559  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>  |                     [수열](https://www.acmicpc.net/problem/2559)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2559.java)   |
+| 백준  | 1806  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="20" height="20"/> |                     [부분합](https://www.acmicpc.net/problem/1806)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1806.java)   |
+| 백준  | 2470  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |                    [두 용액](https://www.acmicpc.net/problem/2470)                     |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2470.java)   |
+| 백준  | 2467  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="20" height="20"/> |                     [용액](https://www.acmicpc.net/problem/2467)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B2467.java)   |
+| 백준  | 3046  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |                     [R2](https://www.acmicpc.net/problem/3046)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3046.java)   |
 | 백준  | 1940  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |                     [주몽](https://www.acmicpc.net/problem/1940)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1940.java)   |
 
 </details>
@@ -508,6 +514,12 @@
 | 프로그래머스 | 176963 |      [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P176963.java) |
 | 프로그래머스 |  1845  |        [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)         |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P1845.java)  |
 | 프로그래머스 | 131701 |   [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/1845)   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P1845.java)  |
+| 프로그래머스 | 76502  |      [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)      | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P76502.java)  |
+| 프로그래머스 | 131127 |      [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P131127.java) |
+| 프로그래머스 | 12949  |      [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12949.java)  |
+| 프로그래머스 | 87390  |    [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)     | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P87390.java)  |
+| 프로그래머스 | 12901  |       [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)       | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P12901.java)  |
+| 프로그래머스 | 42578  |        [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)         | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42578.java)  |
 | 프로그래머스 | 42586  |       [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)        | [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/programmers/P42586.java)  |
 
 </details>
