@@ -223,6 +223,7 @@
 | 백준  | 3046  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="20" height="20"/>  |                     [R2](https://www.acmicpc.net/problem/3046)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B3046.java)   |
 | 백준  | 1940  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>  |                     [주몽](https://www.acmicpc.net/problem/1940)                      |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B1940.java)   |
 | 백준  | 16435 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |                   [스네이크버드](https://www.acmicpc.net/problem/16435)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B16435.java)  |
+| 백준  | 13301 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="20" height="20"/>  |                   [타일 장식물](https://www.acmicpc.net/problem/13301)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B13301.java)  |
 
 </details>
 
