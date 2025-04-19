@@ -232,6 +232,7 @@
 | 백준  | 16394 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [홍익대학교](https://www.acmicpc.net/problem/16394)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B16394.java)  |
 | 백준  | 10170 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |             [NFC West vs North](https://www.acmicpc.net/problem/10170)              |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B10170.java)  |
 | 백준  | 14645 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                 [와이버스 부릉부릉](https://www.acmicpc.net/problem/14645)                  |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B14645.java)  |
+| 백준  | 15680 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [연세대학교](https://www.acmicpc.net/problem/15680)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15680.java)  |
 
 </details>
 
