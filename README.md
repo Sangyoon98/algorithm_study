@@ -235,6 +235,7 @@
 | 백준  | 15680 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [연세대학교](https://www.acmicpc.net/problem/15680)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15680.java)  |
 | 백준  | 5717  | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                  [상근이의 친구들](https://www.acmicpc.net/problem/5717)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B5717.java)   |
 | 백준  | 15733 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                  [나는 누구인가](https://www.acmicpc.net/problem/15733)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15733.java)  |
+| 백준  | 15962 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [새로운 시작](https://www.acmicpc.net/problem/15962)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15962.java)  |
 
 </details>
 
