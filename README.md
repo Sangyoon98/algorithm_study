@@ -237,6 +237,7 @@
 | 백준  | 15733 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                  [나는 누구인가](https://www.acmicpc.net/problem/15733)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15733.java)  |
 | 백준  | 15962 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [새로운 시작](https://www.acmicpc.net/problem/15962)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15962.java)  |
 | 백준  | 16430 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                   [제리와 톰](https://www.acmicpc.net/problem/16430)                    |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B16430.java)  |
+| 백준  | 15740 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20" height="20"/>  |                  [A+B - 9](https://www.acmicpc.net/problem/15740)                   |  [정답 코드](https://github.com/Sangyoon98/alghorithm_study/blob/master/src/baekjoon/B15740.java)  |
 
 </details>
 
