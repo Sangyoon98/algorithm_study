@@ -7,12 +7,12 @@ class P120838 {
     public static void main(String[] args) {
         String letter1 = ".... . .-.. .-.. ---";
         String answer1 = "hello";
-        String result1 = new programmers.P120838().solution(letter1);
+        String result1 = new P120838().solution(letter1);
         PRINT_RESULT(1, result1, answer1);
 
         String letter2 = ".--. -.-- - .... --- -.";
         String answer2 = "python";
-        String result2 = new programmers.P120838().solution(letter2);
+        String result2 = new P120838().solution(letter2);
         PRINT_RESULT(2, result2, answer2);
     }
 

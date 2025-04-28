@@ -6,12 +6,12 @@ class P68644 {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{2, 1, 3, 4, 1};
         int[] answer1 = new int[]{2, 3, 4, 5, 6, 7};
-        int[] result1 = new programmers.P68644().solution(numbers1);
+        int[] result1 = new P68644().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{5, 0, 2, 7};
         int[] answer2 = new int[]{2, 5, 7, 9, 12};
-        int[] result2 = new programmers.P68644().solution(numbers2);
+        int[] result2 = new P68644().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -7,13 +7,13 @@ class P120861 {
         String[] keyinput1 = new String[]{"left", "right", "up", "right", "right"};
         int[] board1 = new int[]{11, 11};
         int[] answer1 = new int[]{2, 1};
-        int[] result1 = new programmers.P120861().solution(keyinput1, board1);
+        int[] result1 = new P120861().solution(keyinput1, board1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] keyinput2 = new String[]{"down", "down", "down", "down", "down"};
         int[] board2 = new int[]{7, 9};
         int[] answer2 = new int[]{0, -4};
-        int[] result2 = new programmers.P120861().solution(keyinput2, board2);
+        int[] result2 = new P120861().solution(keyinput2, board2);
         PRINT_RESULT(2, result2, answer2);
     }
 

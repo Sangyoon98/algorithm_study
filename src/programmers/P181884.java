@@ -5,13 +5,13 @@ class P181884 {
         int[] numbers1 = new int[]{34, 5, 71, 29, 100, 34};
         int n1 = 123;
         int answer1 = 139;
-        int result1 = new programmers.P181884().solution(numbers1, n1);
+        int result1 = new P181884().solution(numbers1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{58, 44, 27, 10, 100};
         int n2 = 139;
         int answer2 = 239;
-        int result2 = new programmers.P181884().solution(numbers2, n2);
+        int result2 = new P181884().solution(numbers2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -6,14 +6,14 @@ class P181936 {
         int n1 = 2;
         int m1 = 3;
         int answer1 = 1;
-        int result1 = new programmers.P181936().solution(number1, n1, m1);
+        int result1 = new P181936().solution(number1, n1, m1);
         PRINT_RESULT(1, result1, answer1);
 
         int number2 = 55;
         int n2 = 10;
         int m2 = 5;
         int answer2 = 0;
-        int result2 = new programmers.P181936().solution(number2, n2, m2);
+        int result2 = new P181936().solution(number2, n2, m2);
         PRINT_RESULT(2, result2, answer2);
     }
 

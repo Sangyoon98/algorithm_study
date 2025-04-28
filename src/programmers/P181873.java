@@ -5,13 +5,13 @@ class P181873 {
         String my_string1 = "programmers";
         String alp1 = "p";
         String answer1 = "Programmers";
-        String result1 = new programmers.P181873().solution(my_string1, alp1);
+        String result1 = new P181873().solution(my_string1, alp1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "lowercase";
         String alp2 = "x";
         String answer2 = "lowercase";
-        String result2 = new programmers.P181873().solution(my_string2, alp2);
+        String result2 = new P181873().solution(my_string2, alp2);
         PRINT_RESULT(2, result2, answer2);
     }
 

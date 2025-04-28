@@ -7,17 +7,17 @@ class P181862 {
     public static void main(String[] args) {
         String myStr1 = "baconlettucetomato";
         String[] answer1 = new String[]{"onlettu", "etom", "to"};
-        String[] result1 = new programmers.P181862().solution(myStr1);
+        String[] result1 = new P181862().solution(myStr1);
         PRINT_RESULT(1, result1, answer1);
 
         String myStr2 = "abcd";
         String[] answer2 = new String[]{"d"};
-        String[] result2 = new programmers.P181862().solution(myStr2);
+        String[] result2 = new P181862().solution(myStr2);
         PRINT_RESULT(2, result2, answer2);
 
         String myStr3 = "cabab";
         String[] answer3 = new String[]{"EMPTY"};
-        String[] result3 = new programmers.P181862().solution(myStr3);
+        String[] result3 = new P181862().solution(myStr3);
         PRINT_RESULT(3, result3, answer3);
     }
 

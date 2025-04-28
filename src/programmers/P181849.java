@@ -4,12 +4,12 @@ class P181849 {
     public static void main(String[] args) {
         String num_str1 = "123456789";
         int answer1 = 45;
-        int result1 = new programmers.P181849().solution(num_str1);
+        int result1 = new P181849().solution(num_str1);
         PRINT_RESULT(1, result1, answer1);
 
         String num_str2 = "1000000";
         int answer2 = 1;
-        int result2 = new programmers.P181849().solution(num_str2);
+        int result2 = new P181849().solution(num_str2);
         PRINT_RESULT(2, result2, answer2);
     }
 

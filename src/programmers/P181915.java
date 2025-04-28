@@ -5,13 +5,13 @@ class P181915 {
         String my_string1 = "cvsgiorszzzmrpaqpe";
         int[] index_list1 = new int[]{16, 6, 5, 3, 12, 14, 11, 11, 17, 12, 7};
         String answer1 = "programmers";
-        String result1 = new programmers.P181915().solution(my_string1, index_list1);
+        String result1 = new P181915().solution(my_string1, index_list1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "zpiaz";
         int[] index_list2 = new int[]{1, 2, 0, 0, 3};
         String answer2 = "pizza";
-        String result2 = new programmers.P181915().solution(my_string2, index_list2);
+        String result2 = new P181915().solution(my_string2, index_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 

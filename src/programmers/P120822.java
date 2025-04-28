@@ -4,12 +4,12 @@ class P120822 {
     public static void main(String[] args) {
         String my_string1 = "jaron";
         String answer1 = "noraj";
-        String result1 = new programmers.P120822().solution(my_string1);
+        String result1 = new P120822().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "bread";
         String answer2 = "daerb";
-        String result2 = new programmers.P120822().solution(my_string2);
+        String result2 = new P120822().solution(my_string2);
         PRINT_RESULT(2, result2, answer2);
     }
 

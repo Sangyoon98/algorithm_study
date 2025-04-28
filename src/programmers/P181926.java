@@ -5,7 +5,7 @@ class P181926 {
         int n1 = 0;
         String control1 = "wsdawsdassw";
         int answer1 = -1;
-        int result1 = new programmers.P181926().solution(n1, control1);
+        int result1 = new P181926().solution(n1, control1);
         PRINT_RESULT(1, result1, answer1);
     }
 

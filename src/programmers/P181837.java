@@ -4,12 +4,12 @@ class P181837 {
     public static void main(String[] args) {
         String[] order1 = new String[]{"cafelatte", "americanoice", "hotcafelatte", "anything"};
         int answer1 = 19000;
-        int result1 = new programmers.P181837().solution(order1);
+        int result1 = new P181837().solution(order1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] order2 = new String[]{"americanoice", "americano", "iceamericano"};
         int answer2 = 13500;
-        int result2 = new programmers.P181837().solution(order2);
+        int result2 = new P181837().solution(order2);
         PRINT_RESULT(2, result2, answer2);
     }
 

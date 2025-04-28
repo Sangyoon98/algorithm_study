@@ -5,7 +5,7 @@ class P120825 {
         String my_string1 = "hello";
         int n1 = 3;
         String answer1 = "hhheeellllllooo";
-        String result1 = new programmers.P120825().solution(my_string1, n1);
+        String result1 = new P120825().solution(my_string1, n1);
         PRINT_RESULT(1, result1, answer1);
     }
 

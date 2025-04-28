@@ -5,7 +5,7 @@ class P181913 {
         String my_string1 = "rermgorpsam";
         int[][] queries1 = new int[][]{{2, 3}, {0, 7}, {5, 9}, {6, 10}};
         String answer1 = "programmers";
-        String result1 = new programmers.P181913().solution(my_string1, queries1);
+        String result1 = new P181913().solution(my_string1, queries1);
         PRINT_RESULT(1, result1, answer1);
     }
 

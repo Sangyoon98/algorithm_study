@@ -5,25 +5,25 @@ class P181908 {
         String my_string1 = "banana";
         String is_suffix1 = "ana";
         int answer1 = 1;
-        int result1 = new programmers.P181908().solution(my_string1, is_suffix1);
+        int result1 = new P181908().solution(my_string1, is_suffix1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "banana";
         String is_suffix2 = "nan";
         int answer2 = 0;
-        int result2 = new programmers.P181908().solution(my_string2, is_suffix2);
+        int result2 = new P181908().solution(my_string2, is_suffix2);
         PRINT_RESULT(2, result2, answer2);
 
         String my_string3 = "banana";
         String is_suffix3 = "wxyz";
         int answer3 = 0;
-        int result3 = new programmers.P181908().solution(my_string3, is_suffix3);
+        int result3 = new P181908().solution(my_string3, is_suffix3);
         PRINT_RESULT(3, result3, answer3);
 
         String my_string4 = "banana";
         String is_suffix4 = "abanana";
         int answer4 = 0;
-        int result4 = new programmers.P181908().solution(my_string4, is_suffix4);
+        int result4 = new P181908().solution(my_string4, is_suffix4);
         PRINT_RESULT(4, result4, answer4);
     }
 

@@ -4,22 +4,22 @@ class P12947 {
     public static void main(String[] args) {
         int x1 = 10;
         boolean answer1 = true;
-        boolean result1 = new programmers.P12947().solution(x1);
+        boolean result1 = new P12947().solution(x1);
         PRINT_RESULT(1, result1, answer1);
 
         int x2 = 12;
         boolean answer2 = true;
-        boolean result2 = new programmers.P12947().solution(x2);
+        boolean result2 = new P12947().solution(x2);
         PRINT_RESULT(2, result2, answer2);
 
         int x3 = 11;
         boolean answer3 = false;
-        boolean result3 = new programmers.P12947().solution(x3);
+        boolean result3 = new P12947().solution(x3);
         PRINT_RESULT(3, result3, answer3);
 
         int x4 = 13;
         boolean answer4 = false;
-        boolean result4 = new programmers.P12947().solution(x4);
+        boolean result4 = new P12947().solution(x4);
         PRINT_RESULT(4, result4, answer4);
     }
 

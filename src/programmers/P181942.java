@@ -5,7 +5,7 @@ class P181942 {
         String str11 = "aaaaa";
         String str21 = "bbbbb";
         String answer1 = "ababababab";
-        String result1 = new programmers.P181942().solution(str11, str21);
+        String result1 = new P181942().solution(str11, str21);
         PRINT_RESULT(1, result1, answer1);
     }
 

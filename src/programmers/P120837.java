@@ -4,17 +4,17 @@ class P120837 {
     public static void main(String[] args) {
         int hp1 = 23;
         int answer1 = 5;
-        int result1 = new programmers.P120837().solution(hp1);
+        int result1 = new P120837().solution(hp1);
         PRINT_RESULT(1, result1, answer1);
 
         int hp2 = 24;
         int answer2 = 6;
-        int result2 = new programmers.P120837().solution(hp2);
+        int result2 = new P120837().solution(hp2);
         PRINT_RESULT(2, result2, answer2);
 
         int hp3 = 999;
         int answer3 = 201;
-        int result3 = new programmers.P120837().solution(hp3);
+        int result3 = new P120837().solution(hp3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -6,17 +6,17 @@ class P120862 {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{1, 2, -3, 4, -5};
         int answer1 = 15;
-        int result1 = new programmers.P120862().solution(numbers1);
+        int result1 = new P120862().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{0, -31, 24, 10, 1, 9};
         int answer2 = 240;
-        int result2 = new programmers.P120862().solution(numbers2);
+        int result2 = new P120862().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] numbers3 = new int[]{10, 20, 30, 5, 5, 20, 5};
         int answer3 = 600;
-        int result3 = new programmers.P120862().solution(numbers3);
+        int result3 = new P120862().solution(numbers3);
         PRINT_RESULT(3, result3, answer3);
     }
 

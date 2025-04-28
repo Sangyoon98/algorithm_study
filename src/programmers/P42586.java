@@ -8,13 +8,13 @@ class P42586 {
         int[] progresses1 = new int[]{93, 30, 55};
         int[] speeds1 = new int[]{1, 30, 5};
         int[] answer1 = new int[]{2, 1};
-        int[] result1 = new programmers.P42586().solution(progresses1, speeds1);
+        int[] result1 = new P42586().solution(progresses1, speeds1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] progresses2 = new int[]{95, 90, 99, 99, 80, 99};
         int[] speeds2 = new int[]{1, 1, 1, 1, 1, 1};
         int[] answer2 = new int[]{1, 3, 2};
-        int[] result2 = new programmers.P42586().solution(progresses2, speeds2);
+        int[] result2 = new P42586().solution(progresses2, speeds2);
         PRINT_RESULT(2, result2, answer2);
     }
 

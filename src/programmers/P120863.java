@@ -4,12 +4,12 @@ class P120863 {
     public static void main(String[] args) {
         String polynomial1 = "3x + 7 + x";
         String answer1 = "4x + 7";
-        String result1 = new programmers.P120863().solution(polynomial1);
+        String result1 = new P120863().solution(polynomial1);
         PRINT_RESULT(1, result1, answer1);
 
         String polynomial2 = "x + x + x";
         String answer2 = "3x";
-        String result2 = new programmers.P120863().solution(polynomial2);
+        String result2 = new P120863().solution(polynomial2);
         PRINT_RESULT(2, result2, answer2);
     }
 

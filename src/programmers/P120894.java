@@ -4,12 +4,12 @@ class P120894 {
     public static void main(String[] args) {
         String numbers1 = "onetwothreefourfivesixseveneightnine";
         long answer1 = 123456789L;
-        long result1 = new programmers.P120894().solution(numbers1);
+        long result1 = new P120894().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         String numbers2 = "onefourzerosixseven";
         long answer2 = 14067L;
-        long result2 = new programmers.P120894().solution(numbers2);
+        long result2 = new P120894().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

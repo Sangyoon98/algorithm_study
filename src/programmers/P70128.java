@@ -5,13 +5,13 @@ class P70128 {
         int[] a1 = new int[]{1, 2, 3, 4};
         int[] b1 = new int[]{-3, -1, 0, 2};
         int answer1 = 3;
-        int result1 = new programmers.P70128().solution(a1, b1);
+        int result1 = new P70128().solution(a1, b1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] a2 = new int[]{-1, 0, 1};
         int[] b2 = new int[]{1, 0, -1};
         int answer2 = -2;
-        int result2 = new programmers.P70128().solution(a2, b2);
+        int result2 = new P70128().solution(a2, b2);
         PRINT_RESULT(2, result2, answer2);
     }
 

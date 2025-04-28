@@ -4,7 +4,7 @@ class P181925 {
     public static void main(String[] args) {
         int[] numLog1 = new int[]{0, 1, 0, 10, 0, 1, 0, 10, 0, -1, -2, -1};
         String answer1 = "wsdawsdassw";
-        String result1 = new programmers.P181925().solution(numLog1);
+        String result1 = new P181925().solution(numLog1);
         PRINT_RESULT(1, result1, answer1);
     }
 

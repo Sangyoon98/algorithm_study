@@ -8,12 +8,12 @@ class P181866 {
     public static void main(String[] args) {
         String myString1 = "axbxcxdx";
         String[] answer1 = new String[]{"a", "b", "c", "d"};
-        String[] result1 = new programmers.P181866().solution(myString1);
+        String[] result1 = new P181866().solution(myString1);
         PRINT_RESULT(1, result1, answer1);
 
         String myString2 = "dxccxbbbxaaaa";
         String[] answer2 = new String[]{"aaaa", "bbb", "cc", "d"};
-        String[] result2 = new programmers.P181866().solution(myString2);
+        String[] result2 = new P181866().solution(myString2);
         PRINT_RESULT(2, result2, answer2);
     }
 

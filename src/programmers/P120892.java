@@ -5,13 +5,13 @@ class P120892 {
         String cipher1 = "dfjardstddetckdaccccdegk";
         int code1 = 4;
         String answer1 = "attack";
-        String result1 = new programmers.P120892().solution(cipher1, code1);
+        String result1 = new P120892().solution(cipher1, code1);
         PRINT_RESULT(1, result1, answer1);
 
         String cipher2 = "pfqallllabwaoclk";
         int code2 = 2;
         String answer2 = "fallback";
-        String result2 = new programmers.P120892().solution(cipher2, code2);
+        String result2 = new P120892().solution(cipher2, code2);
         PRINT_RESULT(2, result2, answer2);
     }
 

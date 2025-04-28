@@ -7,13 +7,13 @@ class P181889 {
         int[] num_list1 = new int[]{2, 1, 6};
         int n1 = 1;
         int[] answer1 = new int[]{2};
-        int[] result1 = new programmers.P181889().solution(num_list1, n1);
+        int[] result1 = new P181889().solution(num_list1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{5, 2, 1, 7, 5};
         int n2 = 3;
         int[] answer2 = new int[]{5, 2, 1};
-        int[] result2 = new programmers.P181889().solution(num_list2, n2);
+        int[] result2 = new P181889().solution(num_list2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

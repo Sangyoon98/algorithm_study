@@ -9,14 +9,14 @@ class P181897 {
         int[] slicer1 = new int[]{1, 5, 2};
         int[] num_list1 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
         int[] answer1 = new int[]{2, 3, 4, 5, 6};
-        int[] result1 = new programmers.P181897().solution(n1, slicer1, num_list1);
+        int[] result1 = new P181897().solution(n1, slicer1, num_list1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 4;
         int[] slicer2 = new int[]{1, 5, 2};
         int[] num_list2 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9};
         int[] answer2 = new int[]{2, 4, 6};
-        int[] result2 = new programmers.P181897().solution(n2, slicer2, num_list2);
+        int[] result2 = new P181897().solution(n2, slicer2, num_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 

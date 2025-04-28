@@ -7,13 +7,13 @@ class p181838 {
         int[] date11 = new int[]{2021, 12, 28};
         int[] date21 = new int[]{2021, 12, 29};
         int answer1 = 1;
-        int result1 = new programmers.p181838().solution(date11, date21);
+        int result1 = new p181838().solution(date11, date21);
         PRINT_RESULT(1, result1, answer1);
 
         int[] date12 = new int[]{1024, 10, 24};
         int[] date22 = new int[]{1024, 10, 24};
         int answer2 = 0;
-        int result2 = new programmers.p181838().solution(date12, date22);
+        int result2 = new p181838().solution(date12, date22);
         PRINT_RESULT(2, result2, answer2);
     }
 

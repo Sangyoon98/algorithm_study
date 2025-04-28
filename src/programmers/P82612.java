@@ -6,7 +6,7 @@ class P82612 {
         int money1 = 20;
         int count1 = 4;
         long answer1 = 10L;
-        long result1 = new programmers.P82612().solution(price1, money1, count1);
+        long result1 = new P82612().solution(price1, money1, count1);
         PRINT_RESULT(1, result1, answer1);
     }
 

@@ -4,17 +4,17 @@ class P131705 {
     public static void main(String[] args) {
         int[] number1 = new int[]{-2, 3, 0, 2, -5};
         int answer1 = 2;
-        int result1 = new programmers.P131705().solution(number1);
+        int result1 = new P131705().solution(number1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] number2 = new int[]{-3, -2, -1, 0, 1, 2, 3};
         int answer2 = 5;
-        int result2 = new programmers.P131705().solution(number2);
+        int result2 = new P131705().solution(number2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] number3 = new int[]{-1, 1, -1, 1};
         int answer3 = 0;
-        int result3 = new programmers.P131705().solution(number3);
+        int result3 = new P131705().solution(number3);
         PRINT_RESULT(3, result3, answer3);
     }
 

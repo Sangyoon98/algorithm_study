@@ -7,7 +7,7 @@ public class P181917 {
         boolean x13 = true;
         boolean x14 = true;
         boolean answer1 = true;
-        boolean result1 = new programmers.P181917().solution(x11, x12, x13, x14);
+        boolean result1 = new P181917().solution(x11, x12, x13, x14);
         PRINT_RESULT(1, result1, answer1);
 
         boolean x21 = true;
@@ -15,7 +15,7 @@ public class P181917 {
         boolean x23 = false;
         boolean x24 = false;
         boolean answer2 = false;
-        boolean result2 = new programmers.P181917().solution(x21, x22, x23, x24);
+        boolean result2 = new P181917().solution(x21, x22, x23, x24);
         PRINT_RESULT(2, result2, answer2);
     }
 

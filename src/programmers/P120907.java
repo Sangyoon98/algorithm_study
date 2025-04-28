@@ -6,12 +6,12 @@ class P120907 {
     public static void main(String[] args) {
         String[] quiz1 = new String[]{"3 - 4 = -3", "5 + 6 = 11"};
         String[] answer1 = new String[]{"X", "O"};
-        String[] result1 = new programmers.P120907().solution(quiz1);
+        String[] result1 = new P120907().solution(quiz1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] quiz2 = new String[]{"19 - 6 = 13", "5 + 66 = 71", "5 - 15 = 63", "3 - 1 = 2"};
         String[] answer2 = new String[]{"O", "O", "X", "O"};
-        String[] result2 = new programmers.P120907().solution(quiz2);
+        String[] result2 = new P120907().solution(quiz2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -8,7 +8,7 @@ class P181885 {
         String[] todo_list1 = new String[]{"problemsolving", "practiceguitar", "swim", "studygraph"};
         boolean[] finished1 = new boolean[]{true, false, true, false};
         String[] answer1 = new String[]{"practiceguitar", "studygraph"};
-        String[] result1 = new programmers.P181885().solution(todo_list1, finished1);
+        String[] result1 = new P181885().solution(todo_list1, finished1);
         PRINT_RESULT(1, result1, answer1);
     }
 

@@ -7,12 +7,12 @@ class P12935 {
     public static void main(String[] args) {
         int[] arr1 = new int[]{4, 3, 2, 1};
         int[] answer1 = new int[]{4, 3, 2};
-        int[] result1 = new programmers.P12935().solution(arr1);
+        int[] result1 = new P12935().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{10};
         int[] answer2 = new int[]{-1};
-        int[] result2 = new programmers.P12935().solution(arr2);
+        int[] result2 = new P12935().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -5,19 +5,19 @@ class P181839 {
         int a1 = 3;
         int b1 = 5;
         int answer1 = 34;
-        int result1 = new programmers.P181839().solution(a1, b1);
+        int result1 = new P181839().solution(a1, b1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 6;
         int b2 = 1;
         int answer2 = 14;
-        int result2 = new programmers.P181839().solution(a2, b2);
+        int result2 = new P181839().solution(a2, b2);
         PRINT_RESULT(2, result2, answer2);
 
         int a3 = 2;
         int b3 = 4;
         int answer3 = 2;
-        int result3 = new programmers.P181839().solution(a3, b3);
+        int result3 = new P181839().solution(a3, b3);
         PRINT_RESULT(3, result3, answer3);
     }
 

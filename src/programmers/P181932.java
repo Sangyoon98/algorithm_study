@@ -4,7 +4,7 @@ class P181932 {
     public static void main(String[] args) {
         String code1 = "abc1abc1abc";
         String answer1 = "acbac";
-        String result1 = new programmers.P181932().solution(code1);
+        String result1 = new P181932().solution(code1);
         PRINT_RESULT(1, result1, answer1);
     }
 

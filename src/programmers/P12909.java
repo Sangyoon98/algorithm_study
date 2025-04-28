@@ -6,22 +6,22 @@ class P12909 {
     public static void main(String[] args) {
         String s1 = "()()";
         boolean answer1 = true;
-        boolean result1 = new programmers.P12909().solution(s1);
+        boolean result1 = new P12909().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "(())()";
         boolean answer2 = true;
-        boolean result2 = new programmers.P12909().solution(s2);
+        boolean result2 = new P12909().solution(s2);
         PRINT_RESULT(2, result2, answer2);
 
         String s3 = ")()(";
         boolean answer3 = false;
-        boolean result3 = new programmers.P12909().solution(s3);
+        boolean result3 = new P12909().solution(s3);
         PRINT_RESULT(3, result3, answer3);
 
         String s4 = "(()(";
         boolean answer4 = false;
-        boolean result4 = new programmers.P12909().solution(s4);
+        boolean result4 = new P12909().solution(s4);
         PRINT_RESULT(4, result4, answer4);
     }
 

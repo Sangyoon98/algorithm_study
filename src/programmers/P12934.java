@@ -4,12 +4,12 @@ class P12934 {
     public static void main(String[] args) {
         long n1 = 121L;
         long answer1 = 144L;
-        long result1 = new programmers.P12934().solution(n1);
+        long result1 = new P12934().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         long n2 = 3L;
         long answer2 = -1L;
-        long result2 = new programmers.P12934().solution(n2);
+        long result2 = new P12934().solution(n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

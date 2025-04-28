@@ -5,13 +5,13 @@ class P120903 {
         String[] s11 = new String[]{"a", "b", "c"};
         String[] s21 = new String[]{"com", "b", "d", "p", "c"};
         int answer1 = 2;
-        int result1 = new programmers.P120903().solution(s11, s21);
+        int result1 = new P120903().solution(s11, s21);
         PRINT_RESULT(1, result1, answer1);
 
         String[] s12 = new String[]{"n", "omg"};
         String[] s22 = new String[]{"m", "dot"};
         int answer2 = 0;
-        int result2 = new programmers.P120903().solution(s12, s22);
+        int result2 = new P120903().solution(s12, s22);
         PRINT_RESULT(2, result2, answer2);
     }
 

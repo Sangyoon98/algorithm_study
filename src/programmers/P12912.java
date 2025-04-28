@@ -5,19 +5,19 @@ class P12912 {
         int a1 = 3;
         int b1 = 5;
         long answer1 = 12L;
-        long result1 = new programmers.P12912().solution(a1, b1);
+        long result1 = new P12912().solution(a1, b1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 3;
         int b2 = 3;
         long answer2 = 3L;
-        long result2 = new programmers.P12912().solution(a2, b2);
+        long result2 = new P12912().solution(a2, b2);
         PRINT_RESULT(2, result2, answer2);
 
         int a3 = 5;
         int b3 = 3;
         long answer3 = 12L;
-        long result3 = new programmers.P12912().solution(a3, b3);
+        long result3 = new P12912().solution(a3, b3);
         PRINT_RESULT(3, result3, answer3);
     }
 

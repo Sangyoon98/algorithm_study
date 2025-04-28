@@ -7,7 +7,7 @@ class P181919 {
     public static void main(String[] args) {
         int n1 = 10;
         int[] answer1 = new int[]{10, 5, 16, 8, 4, 2, 1};
-        int[] result1 = new programmers.P181919().solution(n1);
+        int[] result1 = new P181919().solution(n1);
         PRINT_RESULT(1, result1, answer1);
     }
 

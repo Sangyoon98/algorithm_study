@@ -5,13 +5,13 @@ class P181940 {
         String my_string1 = "string";
         int k1 = 3;
         String answer1 = "stringstringstring";
-        String result1 = new programmers.P181940().solution(my_string1, k1);
+        String result1 = new P181940().solution(my_string1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "love";
         int k2 = 10;
         String answer2 = "lovelovelovelovelovelovelovelovelovelove";
-        String result2 = new programmers.P181940().solution(my_string2, k2);
+        String result2 = new P181940().solution(my_string2, k2);
         PRINT_RESULT(2, result2, answer2);
     }
 

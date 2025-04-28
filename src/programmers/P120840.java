@@ -7,13 +7,13 @@ class P120840 {
         int balls1 = 3;
         int share1 = 2;
         int answer1 = 3;
-        int result1 = new programmers.P120840().solution(balls1, share1);
+        int result1 = new P120840().solution(balls1, share1);
         PRINT_RESULT(1, result1, answer1);
 
         int balls2 = 5;
         int share2 = 3;
         int answer2 = 10;
-        int result2 = new programmers.P120840().solution(balls2, share2);
+        int result2 = new P120840().solution(balls2, share2);
         PRINT_RESULT(2, result2, answer2);
     }
 

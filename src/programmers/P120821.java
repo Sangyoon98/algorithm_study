@@ -6,17 +6,17 @@ class P120821 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{1, 2, 3, 4, 5};
         int[] answer1 = new int[]{5, 4, 3, 2, 1};
-        int[] result1 = new programmers.P120821().solution(num_list1);
+        int[] result1 = new P120821().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{1, 1, 1, 1, 1, 2};
         int[] answer2 = new int[]{2, 1, 1, 1, 1, 1};
-        int[] result2 = new programmers.P120821().solution(num_list2);
+        int[] result2 = new P120821().solution(num_list2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] num_list3 = new int[]{1, 0, 1, 1, 1, 3, 5};
         int[] answer3 = new int[]{5, 3, 1, 1, 1, 0, 1};
-        int[] result3 = new programmers.P120821().solution(num_list3);
+        int[] result3 = new P120821().solution(num_list3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -4,12 +4,12 @@ class P120898 {
     public static void main(String[] args) {
         String message1 = "happy birthday!";
         int answer1 = 30;
-        int result1 = new programmers.P120898().solution(message1);
+        int result1 = new P120898().solution(message1);
         PRINT_RESULT(1, result1, answer1);
 
         String message2 = "I love you~";
         int answer2 = 22;
-        int result2 = new programmers.P120898().solution(message2);
+        int result2 = new P120898().solution(message2);
         PRINT_RESULT(2, result2, answer2);
     }
 

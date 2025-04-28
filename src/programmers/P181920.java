@@ -7,7 +7,7 @@ class P181920 {
         int start_num1 = 3;
         int end_num1 = 10;
         int[] answer1 = new int[]{3, 4, 5, 6, 7, 8, 9, 10};
-        int[] result1 = new programmers.P181920().solution(start_num1, end_num1);
+        int[] result1 = new P181920().solution(start_num1, end_num1);
         PRINT_RESULT(1, result1, answer1);
     }
 

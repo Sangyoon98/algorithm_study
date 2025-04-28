@@ -6,14 +6,14 @@ class P132267 {
         int b1 = 1;
         int n1 = 20;
         int answer1 = 19;
-        int result1 = new programmers.P132267().solution(a1, b1, n1);
+        int result1 = new P132267().solution(a1, b1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 3;
         int b2 = 1;
         int n2 = 20;
         int answer2 = 9;
-        int result2 = new programmers.P132267().solution(a2, b2, n2);
+        int result2 = new P132267().solution(a2, b2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

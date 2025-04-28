@@ -5,13 +5,13 @@ class P120885 {
         String bin11 = "10";
         String bin21 = "11";
         String answer1 = "101";
-        String result1 = new programmers.P120885().solution(bin11, bin21);
+        String result1 = new P120885().solution(bin11, bin21);
         PRINT_RESULT(1, result1, answer1);
 
         String bin12 = "1001";
         String bin22 = "1111";
         String answer2 = "11000";
-        String result2 = new programmers.P120885().solution(bin12, bin22);
+        String result2 = new P120885().solution(bin12, bin22);
         PRINT_RESULT(2, result2, answer2);
     }
 

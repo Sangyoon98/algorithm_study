@@ -4,12 +4,12 @@ class P134240 {
     public static void main(String[] args) {
         int[] food1 = new int[]{1, 3, 4, 6};
         String answer1 = "1223330333221";
-        String result1 = new programmers.P134240().solution(food1);
+        String result1 = new P134240().solution(food1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] food2 = new int[]{1, 7, 1, 2};
         String answer2 = "111303111";
-        String result2 = new programmers.P134240().solution(food2);
+        String result2 = new P134240().solution(food2);
         PRINT_RESULT(2, result2, answer2);
     }
 

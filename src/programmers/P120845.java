@@ -5,13 +5,13 @@ class P120845 {
         int[] box1 = new int[]{1, 1, 1};
         int n1 = 1;
         int answer1 = 1;
-        int result1 = new programmers.P120845().solution(box1, n1);
+        int result1 = new P120845().solution(box1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] box2 = new int[]{10, 8, 6};
         int n2 = 3;
         int answer2 = 12;
-        int result2 = new programmers.P120845().solution(box2, n2);
+        int result2 = new P120845().solution(box2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

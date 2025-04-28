@@ -6,12 +6,12 @@ class P42578 {
     public static void main(String[] args) {
         String[][] clothes1 = new String[][]{{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}};
         int answer1 = 5;
-        int result1 = new programmers.P42578().solution(clothes1);
+        int result1 = new P42578().solution(clothes1);
         PRINT_RESULT(1, result1, answer1);
 
         String[][] clothes2 = new String[][]{{"crow_mask", "face"}, {"blue_sunglasses", "face"}, {"smoky_makeup", "face"}};
         int answer2 = 3;
-        int result2 = new programmers.P42578().solution(clothes2);
+        int result2 = new P42578().solution(clothes2);
         PRINT_RESULT(2, result2, answer2);
     }
 

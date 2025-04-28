@@ -6,12 +6,12 @@ class P120847 {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{1, 2, 3, 4, 5};
         int answer1 = 20;
-        int result1 = new programmers.P120847().solution(numbers1);
+        int result1 = new P120847().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{0, 31, 24, 10, 1, 9};
         int answer2 = 744;
-        int result2 = new programmers.P120847().solution(numbers2);
+        int result2 = new P120847().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

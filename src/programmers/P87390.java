@@ -8,14 +8,14 @@ class P87390 {
         long left1 = 2L;
         long right1 = 5L;
         int[] answer1 = new int[]{3, 2, 2, 3};
-        int[] result1 = new programmers.P87390().solution(n1, left1, right1);
+        int[] result1 = new P87390().solution(n1, left1, right1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 4;
         long left2 = 7L;
         long right2 = 14L;
         int[] answer2 = new int[]{4, 3, 3, 3, 4, 4, 4, 4};
-        int[] result2 = new programmers.P87390().solution(n2, left2, right2);
+        int[] result2 = new P87390().solution(n2, left2, right2);
         PRINT_RESULT(2, result2, answer2);
     }
 

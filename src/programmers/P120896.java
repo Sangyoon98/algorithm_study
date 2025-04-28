@@ -6,17 +6,17 @@ class P120896 {
     public static void main(String[] args) {
         String s1 = "abcabcadc";
         String answer1 = "d";
-        String result1 = new programmers.P120896().solution(s1);
+        String result1 = new P120896().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "abdc";
         String answer2 = "abcd";
-        String result2 = new programmers.P120896().solution(s2);
+        String result2 = new P120896().solution(s2);
         PRINT_RESULT(2, result2, answer2);
 
         String s3 = "hello";
         String answer3 = "eho";
-        String result3 = new programmers.P120896().solution(s3);
+        String result3 = new P120896().solution(s3);
         PRINT_RESULT(3, result3, answer3);
     }
 

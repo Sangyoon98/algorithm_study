@@ -4,12 +4,12 @@ class P120909 {
     public static void main(String[] args) {
         int n1 = 144;
         int answer1 = 1;
-        int result1 = new programmers.P120909().solution(n1);
+        int result1 = new P120909().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 976;
         int answer2 = 2;
-        int result2 = new programmers.P120909().solution(n2);
+        int result2 = new P120909().solution(n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

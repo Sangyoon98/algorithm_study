@@ -4,12 +4,12 @@ class P120820 {
     public static void main(String[] args) {
         int age1 = 40;
         int answer1 = 1983;
-        int result1 = new programmers.P120820().solution(age1);
+        int result1 = new P120820().solution(age1);
         PRINT_RESULT(1, result1, answer1);
 
         int age2 = 23;
         int answer2 = 2000;
-        int result2 = new programmers.P120820().solution(age2);
+        int result2 = new P120820().solution(age2);
         PRINT_RESULT(2, result2, answer2);
     }
 

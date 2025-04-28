@@ -5,13 +5,13 @@ class P181841 {
         String[] str_list1 = new String[]{"abc", "def", "ghi"};
         String ex1 = "ef";
         String answer1 = "abcghi";
-        String result1 = new programmers.P181841().solution(str_list1, ex1);
+        String result1 = new P181841().solution(str_list1, ex1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] str_list2 = new String[]{"abc", "bbc", "cbc"};
         String ex2 = "c";
         String answer2 = "";
-        String result2 = new programmers.P181841().solution(str_list2, ex2);
+        String result2 = new P181841().solution(str_list2, ex2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,7 +4,7 @@ class P181855 {
     public static void main(String[] args) {
         String[] strArr1 = new String[]{"a", "bc", "d", "efg", "hi"};
         int answer1 = 2;
-        int result1 = new programmers.P181855().solution(strArr1);
+        int result1 = new P181855().solution(strArr1);
         PRINT_RESULT(1, result1, answer1);
     }
 

@@ -5,19 +5,19 @@ class P120869 {
         String[] spell1 = new String[]{"p", "o", "s"};
         String[] dic1 = new String[]{"sod", "eocd", "qixm", "adio", "soo"};
         int answer1 = 2;
-        int result1 = new programmers.P120869().solution(spell1, dic1);
+        int result1 = new P120869().solution(spell1, dic1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] spell2 = new String[]{"z", "d", "x"};
         String[] dic2 = new String[]{"def", "dww", "dzx", "loveaw"};
         int answer2 = 1;
-        int result2 = new programmers.P120869().solution(spell2, dic2);
+        int result2 = new P120869().solution(spell2, dic2);
         PRINT_RESULT(2, result2, answer2);
 
         String[] spell3 = new String[]{"s", "o", "m", "d"};
         String[] dic3 = new String[]{"moos", "dzx", "smm", "sunmmo", "som"};
         int answer3 = 2;
-        int result3 = new programmers.P120869().solution(spell3, dic3);
+        int result3 = new P120869().solution(spell3, dic3);
         PRINT_RESULT(3, result3, answer3);
     }
 

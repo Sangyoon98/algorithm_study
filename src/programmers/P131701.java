@@ -6,7 +6,7 @@ class P131701 {
     public static void main(String[] args) {
         int[] elements1 = new int[]{7, 9, 1, 1, 4};
         int answer1 = 18;
-        int result1 = new programmers.P131701().solution(elements1);
+        int result1 = new P131701().solution(elements1);
         PRINT_RESULT(1, result1, answer1);
     }
 

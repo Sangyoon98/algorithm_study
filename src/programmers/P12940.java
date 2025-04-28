@@ -7,13 +7,13 @@ class P12940 {
         int n1 = 3;
         int m1 = 12;
         int[] answer1 = new int[]{3, 12};
-        int[] result1 = new programmers.P12940().solution(n1, m1);
+        int[] result1 = new P12940().solution(n1, m1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 2;
         int m2 = 5;
         int[] answer2 = new int[]{1, 10};
-        int[] result2 = new programmers.P12940().solution(n2, m2);
+        int[] result2 = new P12940().solution(n2, m2);
         PRINT_RESULT(2, result2, answer2);
     }
 

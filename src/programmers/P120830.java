@@ -5,13 +5,13 @@ class P120830 {
         int n1 = 10;
         int k1 = 3;
         int answer1 = 124000;
-        int result1 = new programmers.P120830().solution(n1, k1);
+        int result1 = new P120830().solution(n1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 64;
         int k2 = 6;
         int answer2 = 768000;
-        int result2 = new programmers.P120830().solution(n2, k2);
+        int result2 = new P120830().solution(n2, k2);
         PRINT_RESULT(2, result2, answer2);
     }
 

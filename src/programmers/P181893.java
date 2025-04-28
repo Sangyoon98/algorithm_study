@@ -1,6 +1,5 @@
 package programmers;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 class P181893 {
@@ -8,7 +7,7 @@ class P181893 {
         int[] arr1 = new int[]{0, 1, 2, 3, 4, 5};
         int[] query1 = new int[]{4, 1, 2};
         int[] answer1 = new int[]{1, 2, 3};
-        int[] result1 = new programmers.P181893().solution(arr1, query1);
+        int[] result1 = new P181893().solution(arr1, query1);
         PRINT_RESULT(1, result1, answer1);
     }
 

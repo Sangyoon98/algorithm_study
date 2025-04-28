@@ -8,7 +8,7 @@ class P181860 {
         int[] arr1 = new int[]{3, 2, 4, 1, 3};
         boolean[] flag1 = new boolean[]{true, false, true, false, false};
         int[] answer1 = new int[]{3, 3, 3, 3, 4, 4, 4, 4};
-        int[] result1 = new programmers.P181860().solution(arr1, flag1);
+        int[] result1 = new P181860().solution(arr1, flag1);
         PRINT_RESULT(1, result1, answer1);
     }
 

@@ -8,7 +8,7 @@ class P181895 {
         int[] arr1 = new int[]{1, 2, 3, 4, 5};
         int[][] intervals1 = new int[][]{{1, 3}, {0, 4}};
         int[] answer1 = new int[]{2, 3, 4, 1, 2, 3, 4, 5};
-        int[] result1 = new programmers.P181895().solution(arr1, intervals1);
+        int[] result1 = new P181895().solution(arr1, intervals1);
         PRINT_RESULT(1, result1, answer1);
     }
 

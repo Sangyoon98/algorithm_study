@@ -7,13 +7,13 @@ class P181836 {
         String[] picture1 = new String[]{".xx...xx.", "x..x.x..x", "x...x...x", ".x.....x.", "..x...x..", "...x.x...", "....x...."};
         int k1 = 2;
         String[] answer1 = new String[]{"..xxxx......xxxx..", "..xxxx......xxxx..", "xx....xx..xx....xx", "xx....xx..xx....xx", "xx......xx......xx", "xx......xx......xx", "..xx..........xx..", "..xx..........xx..", "....xx......xx....", "....xx......xx....", "......xx..xx......", "......xx..xx......", "........xx........", "........xx........"};
-        String[] result1 = new programmers.P181836().solution(picture1, k1);
+        String[] result1 = new P181836().solution(picture1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] picture2 = new String[]{"x.x", ".x.", "x.x"};
         int k2 = 3;
         String[] answer2 = new String[]{"xxx...xxx", "xxx...xxx", "xxx...xxx", "...xxx...", "...xxx...", "...xxx...", "xxx...xxx", "xxx...xxx", "xxx...xxx"};
-        String[] result2 = new programmers.P181836().solution(picture2, k2);
+        String[] result2 = new P181836().solution(picture2, k2);
         PRINT_RESULT(2, result2, answer2);
     }
 

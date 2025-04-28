@@ -4,7 +4,7 @@ class P181880 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{12, 4, 15, 1, 14};
         int answer1 = 11;
-        int result1 = new programmers.P181880().solution(num_list1);
+        int result1 = new P181880().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
     }
 

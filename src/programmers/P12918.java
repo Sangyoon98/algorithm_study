@@ -4,12 +4,12 @@ class P12918 {
     public static void main(String[] args) {
         String s1 = "a234";
         boolean answer1 = false;
-        boolean result1 = new programmers.P12918().solution(s1);
+        boolean result1 = new P12918().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "1234";
         boolean answer2 = true;
-        boolean result2 = new programmers.P12918().solution(s2);
+        boolean result2 = new P12918().solution(s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

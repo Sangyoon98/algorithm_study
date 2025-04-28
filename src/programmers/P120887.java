@@ -6,21 +6,21 @@ class P120887 {
         int j1 = 13;
         int k1 = 1;
         int answer1 = 6;
-        int result1 = new programmers.P120887().solution(i1, j1, k1);
+        int result1 = new P120887().solution(i1, j1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         int i2 = 10;
         int j2 = 50;
         int k2 = 5;
         int answer2 = 5;
-        int result2 = new programmers.P120887().solution(i2, j2, k2);
+        int result2 = new P120887().solution(i2, j2, k2);
         PRINT_RESULT(2, result2, answer2);
 
         int i3 = 3;
         int j3 = 10;
         int k3 = 2;
         int answer3 = 0;
-        int result3 = new programmers.P120887().solution(i3, j3, k3);
+        int result3 = new P120887().solution(i3, j3, k3);
         PRINT_RESULT(3, result3, answer3);
     }
 

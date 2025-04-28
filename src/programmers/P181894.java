@@ -6,22 +6,22 @@ class P181894 {
     public static void main(String[] args) {
         int[] arr1 = new int[]{1, 2, 1, 4, 5, 2, 9};
         int[] answer1 = new int[]{2, 1, 4, 5, 2};
-        int[] result1 = new programmers.P181894().solution(arr1);
+        int[] result1 = new P181894().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{1, 2, 1};
         int[] answer2 = new int[]{2};
-        int[] result2 = new programmers.P181894().solution(arr2);
+        int[] result2 = new P181894().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] arr3 = new int[]{1, 1, 1};
         int[] answer3 = new int[]{-1};
-        int[] result3 = new programmers.P181894().solution(arr3);
+        int[] result3 = new P181894().solution(arr3);
         PRINT_RESULT(3, result3, answer3);
 
         int[] arr4 = new int[]{1, 2, 1, 2, 1, 10, 2, 1};
         int[] answer4 = new int[]{2, 1, 2, 1, 10, 2};
-        int[] result4 = new programmers.P181894().solution(arr4);
+        int[] result4 = new P181894().solution(arr4);
         PRINT_RESULT(4, result4, answer4);
     }
 

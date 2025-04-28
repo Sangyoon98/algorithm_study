@@ -4,12 +4,12 @@ class P68935 {
     public static void main(String[] args) {
         int n1 = 45;
         int answer1 = 7;
-        int result1 = new programmers.P68935().solution(n1);
+        int result1 = new P68935().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 125;
         int answer2 = 229;
-        int result2 = new programmers.P68935().solution(n2);
+        int result2 = new P68935().solution(n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

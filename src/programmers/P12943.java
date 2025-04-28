@@ -4,18 +4,18 @@ public class P12943 {
     public static void main(String[] args) {
         int a1 = 6;
         int answer1 = 8;
-        int result1 = new programmers.P12943().solution(a1);
+        int result1 = new P12943().solution(a1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 16;
         int answer2 = 4;
-        int result2 = new programmers.P12943().solution(a2);
+        int result2 = new P12943().solution(a2);
         PRINT_RESULT(2, result2, answer2);
 
 
         int a3 = 626331;
         int answer3 = -1;
-        int result3 = new programmers.P12943().solution(a3);
+        int result3 = new P12943().solution(a3);
         PRINT_RESULT(3, result3, answer3);
     }
 

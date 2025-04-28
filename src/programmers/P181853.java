@@ -7,7 +7,7 @@ class P181853 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{12, 4, 15, 46, 38, 1, 14};
         int[] answer1 = new int[]{1, 4, 12, 14, 15};
-        int[] result1 = new programmers.P181853().solution(num_list1);
+        int[] result1 = new P181853().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
     }
 

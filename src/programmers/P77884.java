@@ -5,13 +5,13 @@ class P77884 {
         int left1 = 13;
         int right1 = 17;
         int answer1 = 43;
-        int result1 = new programmers.P77884().solution(left1, right1);
+        int result1 = new P77884().solution(left1, right1);
         PRINT_RESULT(1, result1, answer1);
 
         int left2 = 24;
         int right2 = 27;
         int answer2 = 52;
-        int result2 = new programmers.P77884().solution(left2, right2);
+        int result2 = new P77884().solution(left2, right2);
         PRINT_RESULT(2, result2, answer2);
     }
 

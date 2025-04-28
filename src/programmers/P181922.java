@@ -7,7 +7,7 @@ class P181922 {
         int[] arr1 = new int[]{0, 1, 2, 4, 3};
         int[][] queries1 = new int[][]{{0, 4, 1}, {0, 3, 2}, {0, 3, 3}};
         int[] answer1 = new int[]{3, 2, 4, 6, 4};
-        int[] result1 = new programmers.P181922().solution(arr1, queries1);
+        int[] result1 = new P181922().solution(arr1, queries1);
         PRINT_RESULT(1, result1, answer1);
     }
 

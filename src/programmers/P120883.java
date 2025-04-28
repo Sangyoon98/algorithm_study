@@ -5,19 +5,19 @@ class P120883 {
         String[] id_pw1 = new String[]{"meosseugi", "1234"};
         String[][] db1 = new String[][]{{"rardss", "123"}, {"yyoom", "1234"}, {"meosseugi", "1234"}};
         String answer1 = "login";
-        String result1 = new programmers.P120883().solution(id_pw1, db1);
+        String result1 = new P120883().solution(id_pw1, db1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] id_pw2 = new String[]{"programmer01", "15789"};
         String[][] db2 = new String[][]{{"programmer02", "111111"}, {"programmer00", "134"}, {"programmer01", "1145"}};
         String answer2 = "wrong pw";
-        String result2 = new programmers.P120883().solution(id_pw2, db2);
+        String result2 = new P120883().solution(id_pw2, db2);
         PRINT_RESULT(2, result2, answer2);
 
         String[] id_pw3 = new String[]{"rabbit04", "98761"};
         String[][] db3 = new String[][]{{"jaja11", "98761"}, {"krong0313", "29440"}, {"rabbit00", "111333"}};
         String answer3 = "fail";
-        String result3 = new programmers.P120883().solution(id_pw3, db3);
+        String result3 = new P120883().solution(id_pw3, db3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -5,13 +5,13 @@ class P181843 {
         String my_string1 = "banana";
         String target1 = "ana";
         int answer1 = 1;
-        int result1 = new programmers.P181843().solution(my_string1, target1);
+        int result1 = new P181843().solution(my_string1, target1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "banana";
         String target2 = "wxyz";
         int answer2 = 0;
-        int result2 = new programmers.P181843().solution(my_string2, target2);
+        int result2 = new P181843().solution(my_string2, target2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,12 +4,12 @@ class P120924 {
     public static void main(String[] args) {
         int[] common1 = new int[]{1, 2, 3, 4};
         int answer1 = 5;
-        int result1 = new programmers.P120924().solution(common1);
+        int result1 = new P120924().solution(common1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] common2 = new int[]{2, 4, 8};
         int answer2 = 16;
-        int result2 = new programmers.P120924().solution(common2);
+        int result2 = new P120924().solution(common2);
         PRINT_RESULT(2, result2, answer2);
     }
 

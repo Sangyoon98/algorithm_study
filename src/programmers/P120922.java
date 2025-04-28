@@ -5,19 +5,19 @@ class P120922 {
         int M1 = 2;
         int N1 = 2;
         int answer1 = 3;
-        int result1 = new programmers.P120922().solution(M1, N1);
+        int result1 = new P120922().solution(M1, N1);
         PRINT_RESULT(1, result1, answer1);
 
         int M2 = 2;
         int N2 = 5;
         int answer2 = 9;
-        int result2 = new programmers.P120922().solution(M2, N2);
+        int result2 = new P120922().solution(M2, N2);
         PRINT_RESULT(2, result2, answer2);
 
         int M3 = 1;
         int N3 = 1;
         int answer3 = 0;
-        int result3 = new programmers.P120922().solution(M3, N3);
+        int result3 = new P120922().solution(M3, N3);
         PRINT_RESULT(3, result3, answer3);
     }
 

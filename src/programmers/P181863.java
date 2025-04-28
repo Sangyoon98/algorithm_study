@@ -4,22 +4,22 @@ class P181863 {
     public static void main(String[] args) {
         String rny_string1 = "masterpiece";
         String answer1 = "rnasterpiece";
-        String result1 = new programmers.P181863().solution(rny_string1);
+        String result1 = new P181863().solution(rny_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String rny_string2 = "programmers";
         String answer2 = "prograrnrners";
-        String result2 = new programmers.P181863().solution(rny_string2);
+        String result2 = new P181863().solution(rny_string2);
         PRINT_RESULT(2, result2, answer2);
 
         String rny_string3 = "jerry";
         String answer3 = "jerry";
-        String result3 = new programmers.P181863().solution(rny_string3);
+        String result3 = new P181863().solution(rny_string3);
         PRINT_RESULT(3, result3, answer3);
 
         String rny_string4 = "burn";
         String answer4 = "burn";
-        String result4 = new programmers.P181863().solution(rny_string4);
+        String result4 = new P181863().solution(rny_string4);
         PRINT_RESULT(4, result4, answer4);
     }
 

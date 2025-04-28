@@ -4,7 +4,7 @@ class P12930 {
     public static void main(String[] args) {
         String s1 = "try hello world";
         String answer1 = "TrY HeLlO WoRlD";
-        String result1 = new programmers.P12930().solution(s1);
+        String result1 = new P12930().solution(s1);
         PRINT_RESULT(1, result1, answer1);
     }
 

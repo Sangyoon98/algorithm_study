@@ -9,19 +9,19 @@ class P12910 {
         int[] arr1 = new int[]{5, 9, 7, 10};
         int divisor1 = 5;
         int[] answer1 = new int[]{5, 10};
-        int[] result1 = new programmers.P12910().solution(arr1, divisor1);
+        int[] result1 = new P12910().solution(arr1, divisor1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{2, 36, 1, 3};
         int divisor2 = 1;
         int[] answer2 = new int[]{1, 2, 3, 36};
-        int[] result2 = new programmers.P12910().solution(arr2, divisor2);
+        int[] result2 = new P12910().solution(arr2, divisor2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] arr3 = new int[]{3, 2, 6};
         int divisor3 = 10;
         int[] answer3 = new int[]{-1};
-        int[] result3 = new programmers.P12910().solution(arr3, divisor3);
+        int[] result3 = new P12910().solution(arr3, divisor3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -1,13 +1,12 @@
 package programmers;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 class P12932 {
     public static void main(String[] args) {
         long n1 = 12345L;
         int[] answer1 = new int[]{5, 4, 3, 2, 1};
-        int[] result1 = new programmers.P12932().solution(n1);
+        int[] result1 = new P12932().solution(n1);
         PRINT_RESULT(1, result1, answer1);
     }
 

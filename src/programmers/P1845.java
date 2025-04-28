@@ -1,23 +1,22 @@
 package programmers;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 class P1845 {
     public static void main(String[] args) {
         int[] nums1 = new int[]{3, 1, 2, 3};
         int answer1 = 2;
-        int result1 = new programmers.P1845().solution(nums1);
+        int result1 = new P1845().solution(nums1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] nums2 = new int[]{3, 3, 3, 2, 2, 4};
         int answer2 = 3;
-        int result2 = new programmers.P1845().solution(nums2);
+        int result2 = new P1845().solution(nums2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] nums3 = new int[]{3, 3, 3, 2, 2, 2};
         int answer3 = 2;
-        int result3 = new programmers.P1845().solution(nums3);
+        int result3 = new P1845().solution(nums3);
         PRINT_RESULT(3, result3, answer3);
     }
 

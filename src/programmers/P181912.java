@@ -10,7 +10,7 @@ class P181912 {
         int s1 = 5;
         int l1 = 5;
         int[] answer1 = new int[]{56789, 99999};
-        int[] result1 = new programmers.P181912().solution(intStrs1, k1, s1, l1);
+        int[] result1 = new P181912().solution(intStrs1, k1, s1, l1);
         PRINT_RESULT(1, result1, answer1);
     }
 

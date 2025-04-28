@@ -6,14 +6,14 @@ class P181943 {
         String overwrite_string1 = "lloWorl";
         int s1 = 2;
         String answer1 = "HelloWorld";
-        String result1 = new programmers.P181943().solution(my_string1, overwrite_string1, s1);
+        String result1 = new P181943().solution(my_string1, overwrite_string1, s1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "Program29b8UYP";
         String overwrite_string2 = "merS123";
         int s2 = 7;
         String answer2 = "ProgrammerS123";
-        String result2 = new programmers.P181943().solution(my_string2, overwrite_string2, s2);
+        String result2 = new P181943().solution(my_string2, overwrite_string2, s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

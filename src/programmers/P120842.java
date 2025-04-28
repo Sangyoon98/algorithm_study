@@ -7,13 +7,13 @@ class P120842 {
         int[] num_list1 = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
         int n1 = 2;
         int[][] answer1 = new int[][]{{1, 2}, {3, 4}, {5, 6}, {7, 8}};
-        int[][] result1 = new programmers.P120842().solution(num_list1, n1);
+        int[][] result1 = new P120842().solution(num_list1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{100, 95, 2, 4, 5, 6, 18, 33, 948};
         int n2 = 3;
         int[][] answer2 = new int[][]{{100, 95, 2}, {4, 5, 6}, {18, 33, 948}};
-        int[][] result2 = new programmers.P120842().solution(num_list2, n2);
+        int[][] result2 = new P120842().solution(num_list2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

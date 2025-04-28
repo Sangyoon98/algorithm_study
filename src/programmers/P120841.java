@@ -4,12 +4,12 @@ public class P120841 {
     public static void main(String[] args) {
         int[] s1 = new int[]{2, 4};
         int answer1 = 1;
-        int result1 = new programmers.P120841().solution(s1);
+        int result1 = new P120841().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] s2 = new int[]{-7, 9};
         int answer2 = 2;
-        int result2 = new programmers.P120841().solution(s2);
+        int result2 = new P120841().solution(s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,12 +4,12 @@ class P120851 {
     public static void main(String[] args) {
         String my_string1 = "aAb1B2cC34oOp";
         int answer1 = 10;
-        int result1 = new programmers.P120851().solution(my_string1);
+        int result1 = new P120851().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "1a2b3c4d123";
         int answer2 = 16;
-        int result2 = new programmers.P120851().solution(my_string2);
+        int result2 = new P120851().solution(my_string2);
         PRINT_RESULT(2, result2, answer2);
     }
 

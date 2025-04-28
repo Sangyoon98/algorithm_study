@@ -5,13 +5,13 @@ class P76501 {
         int[] absolutes1 = new int[]{4, 7, 12};
         boolean[] signs1 = new boolean[]{true, false, true};
         int answer1 = 9;
-        int result1 = new programmers.P76501().solution(absolutes1, signs1);
+        int result1 = new P76501().solution(absolutes1, signs1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] absolutes2 = new int[]{1, 2, 3};
         boolean[] signs2 = new boolean[]{false, false, true};
         int answer2 = 0;
-        int result2 = new programmers.P76501().solution(absolutes2, signs2);
+        int result2 = new P76501().solution(absolutes2, signs2);
         PRINT_RESULT(2, result2, answer2);
     }
 

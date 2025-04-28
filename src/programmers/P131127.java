@@ -8,14 +8,14 @@ class P131127 {
         int[] number1 = new int[]{3, 2, 2, 2, 1};
         String[] discount1 = new String[]{"chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"};
         int answer1 = 3;
-        int result1 = new programmers.P131127().solution(want1, number1, discount1);
+        int result1 = new P131127().solution(want1, number1, discount1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] want2 = new String[]{"apple"};
         int[] number2 = new int[]{10};
         String[] discount2 = new String[]{"banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana"};
         int answer2 = 0;
-        int result2 = new programmers.P131127().solution(want2, number2, discount2);
+        int result2 = new P131127().solution(want2, number2, discount2);
         PRINT_RESULT(2, result2, answer2);
     }
 

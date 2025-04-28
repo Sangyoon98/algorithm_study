@@ -4,12 +4,12 @@ class P120817 {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         double answer1 = 5.5;
-        double result1 = new programmers.P120817().solution(numbers1);
+        double result1 = new P120817().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99};
         double answer2 = 94.0;
-        double result2 = new programmers.P120817().solution(numbers2);
+        double result2 = new P120817().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

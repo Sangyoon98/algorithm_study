@@ -5,13 +5,13 @@ class P181840 {
         int[] num_list1 = new int[]{1, 2, 3, 4, 5};
         int n1 = 3;
         int answer1 = 1;
-        int result1 = new programmers.P181840().solution(num_list1, n1);
+        int result1 = new P181840().solution(num_list1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{15, 98, 23, 2, 15};
         int n2 = 20;
         int answer2 = 0;
-        int result2 = new programmers.P181840().solution(num_list2, n2);
+        int result2 = new P181840().solution(num_list2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -5,19 +5,19 @@ class P120904 {
         int num1 = 29183;
         int k1 = 1;
         int answer1 = 3;
-        int result1 = new programmers.P120904().solution(num1, k1);
+        int result1 = new P120904().solution(num1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         int num2 = 232443;
         int k2 = 4;
         int answer2 = 4;
-        int result2 = new programmers.P120904().solution(num2, k2);
+        int result2 = new P120904().solution(num2, k2);
         PRINT_RESULT(2, result2, answer2);
 
         int num3 = 123456;
         int k3 = 7;
         int answer3 = -1;
-        int result3 = new programmers.P120904().solution(num3, k3);
+        int result3 = new P120904().solution(num3, k3);
         PRINT_RESULT(3, result3, answer3);
     }
 

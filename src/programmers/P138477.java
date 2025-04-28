@@ -9,13 +9,13 @@ class P138477 {
         int k1 = 3;
         int[] score1 = new int[]{10, 100, 20, 150, 1, 100, 200};
         int[] answer1 = new int[]{10, 10, 10, 20, 20, 100, 100};
-        int[] result1 = new programmers.P138477().solution(k1, score1);
+        int[] result1 = new P138477().solution(k1, score1);
         PRINT_RESULT(1, result1, answer1);
 
         int k2 = 4;
         int[] score2 = new int[]{0, 300, 40, 300, 20, 70, 150, 50, 500, 1000};
         int[] answer2 = new int[]{0, 0, 0, 0, 20, 40, 70, 70, 150, 300};
-        int[] result2 = new programmers.P138477().solution(k2, score2);
+        int[] result2 = new P138477().solution(k2, score2);
         PRINT_RESULT(2, result2, answer2);
     }
 

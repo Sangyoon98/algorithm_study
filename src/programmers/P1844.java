@@ -7,12 +7,12 @@ class P1844 {
     public static void main(String[] args) {
         int[][] maps1 = new int[][]{{1, 0, 1, 1, 1}, {1, 0, 1, 0, 1}, {1, 0, 1, 1, 1}, {1, 1, 1, 0, 1}, {0, 0, 0, 0, 1}};
         int answer1 = 11;
-        int result1 = new programmers.P1844().solution(maps1);
+        int result1 = new P1844().solution(maps1);
         PRINT_RESULT(1, result1, answer1);
 
         int[][] maps2 = new int[][]{{1, 0, 1, 1, 1}, {1, 0, 1, 0, 1}, {1, 0, 1, 1, 1}, {1, 1, 1, 0, 0}, {0, 0, 0, 0, 1}};
         int answer2 = -1;
-        int result2 = new programmers.P1844().solution(maps2);
+        int result2 = new P1844().solution(maps2);
         PRINT_RESULT(2, result2, answer2);
     }
 

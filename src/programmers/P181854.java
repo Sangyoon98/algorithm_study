@@ -7,13 +7,13 @@ class P181854 {
         int[] arr1 = new int[]{49, 12, 100, 276, 33};
         int n1 = 27;
         int[] answer1 = new int[]{76, 12, 127, 276, 60};
-        int[] result1 = new programmers.P181854().solution(arr1, n1);
+        int[] result1 = new P181854().solution(arr1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{444, 555, 666, 777};
         int n2 = 100;
         int[] answer2 = new int[]{444, 655, 666, 877};
-        int[] result2 = new programmers.P181854().solution(arr2, n2);
+        int[] result2 = new P181854().solution(arr2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

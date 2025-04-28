@@ -5,7 +5,7 @@ class P181900 {
         String my_string1 = "apporoograpemmemprs";
         int[] indices1 = new int[]{1, 16, 6, 15, 0, 10, 11, 3};
         String answer1 = "programmers";
-        String result1 = new programmers.P181900().solution(my_string1, indices1);
+        String result1 = new P181900().solution(my_string1, indices1);
         PRINT_RESULT(1, result1, answer1);
     }
 

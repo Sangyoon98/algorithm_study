@@ -6,12 +6,12 @@ class P120882 {
     public static void main(String[] args) {
         int[][] score1 = new int[][]{{80, 70}, {90, 50}, {40, 70}, {50, 80}};
         int[] answer1 = new int[]{1, 2, 4, 3};
-        int[] result1 = new programmers.P120882().solution(score1);
+        int[] result1 = new P120882().solution(score1);
         PRINT_RESULT(1, result1, answer1);
 
         int[][] score2 = new int[][]{{80, 70}, {70, 80}, {30, 50}, {90, 100}, {100, 90}, {100, 100}, {10, 30}};
         int[] answer2 = new int[]{4, 4, 6, 2, 2, 1, 7};
-        int[] result2 = new programmers.P120882().solution(score2);
+        int[] result2 = new P120882().solution(score2);
         PRINT_RESULT(2, result2, answer2);
     }
 

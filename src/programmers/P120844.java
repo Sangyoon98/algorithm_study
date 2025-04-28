@@ -9,13 +9,13 @@ class P120844 {
         int[] numbers1 = new int[]{1, 2, 3};
         String direction1 = "right";
         int[] answer1 = new int[]{3, 1, 2};
-        int[] result1 = new programmers.P120844().solution(numbers1, direction1);
+        int[] result1 = new P120844().solution(numbers1, direction1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{4, 455, 6, 4, -1, 45, 6};
         String direction2 = "left";
         int[] answer2 = new int[]{455, 6, 4, -1, 45, 6, 4};
-        int[] result2 = new programmers.P120844().solution(numbers2, direction2);
+        int[] result2 = new P120844().solution(numbers2, direction2);
         PRINT_RESULT(2, result2, answer2);
     }
 

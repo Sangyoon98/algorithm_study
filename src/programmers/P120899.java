@@ -6,12 +6,12 @@ class P120899 {
     public static void main(String[] args) {
         int[] array1 = new int[]{1, 8, 3};
         int[] answer1 = new int[]{8, 1};
-        int[] result1 = new programmers.P120899().solution(array1);
+        int[] result1 = new P120899().solution(array1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] array2 = new int[]{9, 10, 11, 8};
         int[] answer2 = new int[]{11, 2};
-        int[] result2 = new programmers.P120899().solution(array2);
+        int[] result2 = new P120899().solution(array2);
         PRINT_RESULT(2, result2, answer2);
     }
 

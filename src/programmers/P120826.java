@@ -5,13 +5,13 @@ class P120826 {
         String my_string1 = "abcdef";
         String letter1 = "f";
         String answer1 = "abcde";
-        String result1 = new programmers.P120826().solution(my_string1, letter1);
+        String result1 = new P120826().solution(my_string1, letter1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "BCBdbe";
         String letter2 = "B";
         String answer2 = "Cdbe";
-        String result2 = new programmers.P120826().solution(my_string2, letter2);
+        String result2 = new P120826().solution(my_string2, letter2);
         PRINT_RESULT(2, result2, answer2);
     }
 

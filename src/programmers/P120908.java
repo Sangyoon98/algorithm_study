@@ -5,19 +5,19 @@ class P120908 {
         String str11 = "ab6CDE443fgh22iJKlmn1o";
         String str21 = "6CD";
         int answer1 = 1;
-        int result1 = new programmers.P120908().solution(str11, str21);
+        int result1 = new P120908().solution(str11, str21);
         PRINT_RESULT(1, result1, answer1);
 
         String str12 = "ppprrrogrammers";
         String str22 = "pppp";
         int answer2 = 2;
-        int result2 = new programmers.P120908().solution(str12, str22);
+        int result2 = new P120908().solution(str12, str22);
         PRINT_RESULT(2, result2, answer2);
 
         String str13 = "AbcAbcA";
         String str23 = "AAA";
         int answer3 = 2;
-        int result3 = new programmers.P120908().solution(str13, str23);
+        int result3 = new P120908().solution(str13, str23);
         PRINT_RESULT(3, result3, answer3);
     }
 

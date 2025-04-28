@@ -4,7 +4,7 @@ class P120902 {
     public static void main(String[] args) {
         String my_string1 = "3 + 4";
         int answer1 = 7;
-        int result1 = new programmers.P120902().solution(my_string1);
+        int result1 = new P120902().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
     }
 

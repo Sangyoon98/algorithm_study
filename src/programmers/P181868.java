@@ -7,12 +7,12 @@ class P181868 {
     public static void main(String[] args) {
         String my_string1 = " i love you";
         String[] answer1 = new String[]{"i", "love", "you"};
-        String[] result1 = new programmers.P181868().solution(my_string1);
+        String[] result1 = new P181868().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = " programmers ";
         String[] answer2 = new String[]{"programmers"};
-        String[] result2 = new programmers.P181868().solution(my_string2);
+        String[] result2 = new P181868().solution(my_string2);
         PRINT_RESULT(2, result2, answer2);
     }
 

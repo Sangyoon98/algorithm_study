@@ -7,25 +7,25 @@ class P120923 {
         int num1 = 3;
         int total1 = 12;
         int[] answer1 = new int[]{3, 4, 5};
-        int[] result1 = new programmers.P120923().solution(num1, total1);
+        int[] result1 = new P120923().solution(num1, total1);
         PRINT_RESULT(1, result1, answer1);
 
         int num2 = 5;
         int total2 = 15;
         int[] answer2 = new int[]{1, 2, 3, 4, 5};
-        int[] result2 = new programmers.P120923().solution(num2, total2);
+        int[] result2 = new P120923().solution(num2, total2);
         PRINT_RESULT(2, result2, answer2);
 
         int num3 = 4;
         int total3 = 14;
         int[] answer3 = new int[]{2, 3, 4, 5};
-        int[] result3 = new programmers.P120923().solution(num3, total3);
+        int[] result3 = new P120923().solution(num3, total3);
         PRINT_RESULT(3, result3, answer3);
 
         int num4 = 5;
         int total4 = 5;
         int[] answer4 = new int[]{-1, 0, 1, 2, 3};
-        int[] result4 = new programmers.P120923().solution(num4, total4);
+        int[] result4 = new P120923().solution(num4, total4);
         PRINT_RESULT(4, result4, answer4);
     }
 

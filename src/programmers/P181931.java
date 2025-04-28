@@ -6,14 +6,14 @@ class P181931 {
         int d1 = 4;
         boolean[] included1 = new boolean[]{true, false, false, true, true};
         int answer1 = 37;
-        int result1 = new programmers.P181931().solution(a1, d1, included1);
+        int result1 = new P181931().solution(a1, d1, included1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 7;
         int d2 = 1;
         boolean[] included2 = new boolean[]{false, false, false, true, false, false, false};
         int answer2 = 10;
-        int result2 = new programmers.P181931().solution(a2, d2, included2);
+        int result2 = new P181931().solution(a2, d2, included2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -7,17 +7,17 @@ class P181861 {
     public static void main(String[] args) {
         int[] arr1 = new int[]{5, 1, 4};
         int[] answer1 = new int[]{5, 5, 5, 5, 5, 1, 4, 4, 4, 4};
-        int[] result1 = new programmers.P181861().solution(arr1);
+        int[] result1 = new P181861().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{6, 6};
         int[] answer2 = new int[]{6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6};
-        int[] result2 = new programmers.P181861().solution(arr2);
+        int[] result2 = new P181861().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] arr3 = new int[]{1};
         int[] answer3 = new int[]{1};
-        int[] result3 = new programmers.P181861().solution(arr3);
+        int[] result3 = new P181861().solution(arr3);
         PRINT_RESULT(3, result3, answer3);
     }
 

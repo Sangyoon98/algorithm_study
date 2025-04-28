@@ -5,13 +5,13 @@ class P181907 {
         String my_string1 = "ProgrammerS123";
         int n1 = 11;
         String answer1 = "ProgrammerS";
-        String result1 = new programmers.P181907().solution(my_string1, n1);
+        String result1 = new P181907().solution(my_string1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "He110W0r1d";
         int n2 = 5;
         String answer2 = "He110";
-        String result2 = new programmers.P181907().solution(my_string2, n2);
+        String result2 = new P181907().solution(my_string2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,17 +4,17 @@ class P181865 {
     public static void main(String[] args) {
         String binomial1 = "43 + 12";
         int answer1 = 55;
-        int result1 = new programmers.P181865().solution(binomial1);
+        int result1 = new P181865().solution(binomial1);
         PRINT_RESULT(1, result1, answer1);
 
         String binomial2 = "0 - 7777";
         int answer2 = -7777;
-        int result2 = new programmers.P181865().solution(binomial2);
+        int result2 = new P181865().solution(binomial2);
         PRINT_RESULT(2, result2, answer2);
 
         String binomial3 = "40000 * 40000";
         int answer3 = 1600000000;
-        int result3 = new programmers.P181865().solution(binomial3);
+        int result3 = new P181865().solution(binomial3);
         PRINT_RESULT(3, result3, answer3);
     }
 

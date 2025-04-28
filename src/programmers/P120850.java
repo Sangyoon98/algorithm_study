@@ -7,17 +7,17 @@ class P120850 {
     public static void main(String[] args) {
         String my_string1 = "hi12392";
         int[] answer1 = new int[]{1, 2, 2, 3, 9};
-        int[] result1 = new programmers.P120850().solution(my_string1);
+        int[] result1 = new P120850().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "p2o4i8gj2";
         int[] answer2 = new int[]{2, 2, 4, 8};
-        int[] result2 = new programmers.P120850().solution(my_string2);
+        int[] result2 = new P120850().solution(my_string2);
         PRINT_RESULT(2, result2, answer2);
 
         String my_string3 = "abcde0";
         int[] answer3 = new int[]{0};
-        int[] result3 = new programmers.P120850().solution(my_string3);
+        int[] result3 = new P120850().solution(my_string3);
         PRINT_RESULT(3, result3, answer3);
     }
 

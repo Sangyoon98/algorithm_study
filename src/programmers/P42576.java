@@ -7,19 +7,19 @@ class P42576 {
         String[] participant1 = new String[]{"leo", "kiki", "eden"};
         String[] completion1 = new String[]{"eden", "kiki"};
         String answer1 = "leo";
-        String result1 = new programmers.P42576().solution(participant1, completion1);
+        String result1 = new P42576().solution(participant1, completion1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] participant2 = new String[]{"marina", "josipa", "nikola", "vinko", "filipa"};
         String[] completion2 = new String[]{"josipa", "filipa", "marina", "nikola"};
         String answer2 = "vinko";
-        String result2 = new programmers.P42576().solution(participant2, completion2);
+        String result2 = new P42576().solution(participant2, completion2);
         PRINT_RESULT(2, result2, answer2);
 
         String[] participant3 = new String[]{"mislav", "stanko", "mislav", "ana"};
         String[] completion3 = new String[]{"stanko", "ana", "mislav"};
         String answer3 = "mislav";
-        String result3 = new programmers.P42576().solution(participant3, completion3);
+        String result3 = new P42576().solution(participant3, completion3);
         PRINT_RESULT(3, result3, answer3);
     }
 

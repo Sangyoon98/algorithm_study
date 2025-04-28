@@ -4,12 +4,12 @@ class P12951 {
     public static void main(String[] args) {
         String s1 = "3people unFollowed me";
         String answer1 = "3people Unfollowed Me";
-        String result1 = new programmers.P12951().solution(s1);
+        String result1 = new P12951().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "for the last week";
         String answer2 = "For The Last Week";
-        String result2 = new programmers.P12951().solution(s2);
+        String result2 = new P12951().solution(s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

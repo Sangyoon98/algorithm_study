@@ -4,17 +4,17 @@ class P120834 {
     public static void main(String[] args) {
         int age1 = 23;
         String answer1 = "cd";
-        String result1 = new programmers.P120834().solution(age1);
+        String result1 = new P120834().solution(age1);
         PRINT_RESULT(1, result1, answer1);
 
         int age2 = 51;
         String answer2 = "fb";
-        String result2 = new programmers.P120834().solution(age2);
+        String result2 = new P120834().solution(age2);
         PRINT_RESULT(2, result2, answer2);
 
         int age3 = 100;
         String answer3 = "baa";
-        String result3 = new programmers.P120834().solution(age3);
+        String result3 = new P120834().solution(age3);
         PRINT_RESULT(3, result3, answer3);
     }
 

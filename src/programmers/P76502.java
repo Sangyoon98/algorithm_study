@@ -6,22 +6,22 @@ class P76502 {
     public static void main(String[] args) {
         String s1 = "[](){}";
         int answer1 = 3;
-        int result1 = new programmers.P76502().solution(s1);
+        int result1 = new P76502().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "}]()[{";
         int answer2 = 2;
-        int result2 = new programmers.P76502().solution(s2);
+        int result2 = new P76502().solution(s2);
         PRINT_RESULT(2, result2, answer2);
 
         String s3 = "[)(]";
         int answer3 = 0;
-        int result3 = new programmers.P76502().solution(s3);
+        int result3 = new P76502().solution(s3);
         PRINT_RESULT(3, result3, answer3);
 
         String s4 = "}}}";
         int answer4 = 0;
-        int result4 = new programmers.P76502().solution(s4);
+        int result4 = new P76502().solution(s4);
         PRINT_RESULT(4, result4, answer4);
     }
 

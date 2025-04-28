@@ -5,19 +5,19 @@ class P12926 {
         String s1 = "AB";
         int n1 = 1;
         String answer1 = "BC";
-        String result1 = new programmers.P12926().solution(s1, n1);
+        String result1 = new P12926().solution(s1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "z";
         int n2 = 1;
         String answer2 = "a";
-        String result2 = new programmers.P12926().solution(s2, n2);
+        String result2 = new P12926().solution(s2, n2);
         PRINT_RESULT(2, result2, answer2);
 
         String s3 = "a B z";
         int n3 = 4;
         String answer3 = "e F d";
-        String result3 = new programmers.P12926().solution(s3, n3);
+        String result3 = new P12926().solution(s3, n3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -4,12 +4,12 @@ class P12953 {
     public static void main(String[] args) {
         int[] arr1 = new int[]{2, 6, 8, 14};
         int answer1 = 168;
-        int result1 = new programmers.P12953().solution(arr1);
+        int result1 = new P12953().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{1, 2, 3};
         int answer2 = 6;
-        int result2 = new programmers.P12953().solution(arr2);
+        int result2 = new P12953().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
     }
 

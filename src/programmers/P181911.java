@@ -5,7 +5,7 @@ class P181911 {
         String[] my_strings1 = new String[]{"progressive", "hamburger", "hammer", "ahocorasick"};
         int[][] parts1 = new int[][]{{0, 4}, {1, 2}, {3, 5}, {7, 7}};
         String answer1 = "programmers";
-        String result1 = new programmers.P181911().solution(my_strings1, parts1);
+        String result1 = new P181911().solution(my_strings1, parts1);
         PRINT_RESULT(1, result1, answer1);
     }
 

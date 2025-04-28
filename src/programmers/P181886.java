@@ -7,7 +7,7 @@ class P181886 {
     public static void main(String[] args) {
         String[] names1 = new String[]{"nami", "ahri", "jayce", "garen", "ivern", "vex", "jinx"};
         String[] answer1 = new String[]{"nami", "vex"};
-        String[] result1 = new programmers.P181886().solution(names1);
+        String[] result1 = new P181886().solution(names1);
         PRINT_RESULT(1, result1, answer1);
     }
 

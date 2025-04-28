@@ -6,14 +6,14 @@ class P136798 {
         int limit1 = 3;
         int power1 = 2;
         int answer1 = 10;
-        int result1 = new programmers.P136798().solution(number1, limit1, power1);
+        int result1 = new P136798().solution(number1, limit1, power1);
         PRINT_RESULT(1, result1, answer1);
 
         int number2 = 10;
         int limit2 = 3;
         int power2 = 2;
         int answer2 = 21;
-        int result2 = new programmers.P136798().solution(number2, limit2, power2);
+        int result2 = new P136798().solution(number2, limit2, power2);
         PRINT_RESULT(2, result2, answer2);
     }
 

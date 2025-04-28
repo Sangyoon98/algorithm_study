@@ -4,12 +4,12 @@ class P86051 {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{1, 2, 3, 4, 6, 7, 8, 0};
         int answer1 = 14;
-        int result1 = new programmers.P86051().solution(numbers1);
+        int result1 = new P86051().solution(numbers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{5, 8, 4, 0, 6, 7, 9};
         int answer2 = 6;
-        int result2 = new programmers.P86051().solution(numbers2);
+        int result2 = new P86051().solution(numbers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

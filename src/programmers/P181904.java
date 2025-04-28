@@ -6,14 +6,14 @@ class P181904 {
         int m1 = 4;
         int c1 = 2;
         String answer1 = "happy";
-        String result1 = new programmers.P181904().solution(my_string1, m1, c1);
+        String result1 = new P181904().solution(my_string1, m1, c1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "programmers";
         int m2 = 1;
         int c2 = 1;
         String answer2 = "programmers";
-        String result2 = new programmers.P181904().solution(my_string2, m2, c2);
+        String result2 = new P181904().solution(my_string2, m2, c2);
         PRINT_RESULT(2, result2, answer2);
     }
 

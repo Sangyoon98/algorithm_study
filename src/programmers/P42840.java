@@ -7,12 +7,12 @@ class P42840 {
     public static void main(String[] args) {
         int[] answers1 = new int[]{1, 2, 3, 4, 5};
         int[] answer1 = new int[]{1};
-        int[] result1 = new programmers.P42840().solution(answers1);
+        int[] result1 = new P42840().solution(answers1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] answers2 = new int[]{1, 3, 2, 4, 2};
         int[] answer2 = new int[]{1, 2, 3};
-        int[] result2 = new programmers.P42840().solution(answers2);
+        int[] result2 = new P42840().solution(answers2);
         PRINT_RESULT(2, result2, answer2);
     }
 

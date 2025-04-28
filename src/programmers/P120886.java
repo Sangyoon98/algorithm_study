@@ -7,13 +7,13 @@ class P120886 {
         String before1 = "olleh";
         String after1 = "hello";
         int answer1 = 1;
-        int result1 = new programmers.P120886().solution(before1, after1);
+        int result1 = new P120886().solution(before1, after1);
         PRINT_RESULT(1, result1, answer1);
 
         String before2 = "allpe";
         String after2 = "apple";
         int answer2 = 0;
-        int result2 = new programmers.P120886().solution(before2, after2);
+        int result2 = new P120886().solution(before2, after2);
         PRINT_RESULT(2, result2, answer2);
     }
 

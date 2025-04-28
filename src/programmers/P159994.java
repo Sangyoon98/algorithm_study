@@ -10,14 +10,14 @@ class P159994 {
         String[] cards21 = new String[]{"want", "to"};
         String[] goal1 = new String[]{"i", "want", "to", "drink", "water"};
         String answer1 = "Yes";
-        String result1 = new programmers.P159994().solution(cards11, cards21, goal1);
+        String result1 = new P159994().solution(cards11, cards21, goal1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] cards12 = new String[]{"i", "water", "drink"};
         String[] cards22 = new String[]{"want", "to"};
         String[] goal2 = new String[]{"i", "want", "to", "drink", "water"};
         String answer2 = "No";
-        String result2 = new programmers.P159994().solution(cards12, cards22, goal2);
+        String result2 = new P159994().solution(cards12, cards22, goal2);
         PRINT_RESULT(2, result2, answer2);
     }
 

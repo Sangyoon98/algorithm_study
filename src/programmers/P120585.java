@@ -5,13 +5,13 @@ class P120585 {
         int[] array1 = new int[]{149, 180, 192, 170};
         int height1 = 167;
         int answer1 = 3;
-        int result1 = new programmers.P120585().solution(array1, height1);
+        int result1 = new P120585().solution(array1, height1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] array2 = new int[]{180, 120, 140};
         int height2 = 190;
         int answer2 = 0;
-        int result2 = new programmers.P120585().solution(array2, height2);
+        int result2 = new P120585().solution(array2, height2);
         PRINT_RESULT(2, result2, answer2);
     }
 

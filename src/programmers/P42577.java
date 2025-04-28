@@ -6,17 +6,17 @@ class P42577 {
     public static void main(String[] args) {
         String[] phone_book1 = new String[]{"119", "97674223", "1195524421"};
         boolean answer1 = false;
-        boolean result1 = new programmers.P42577().solution(phone_book1);
+        boolean result1 = new P42577().solution(phone_book1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] phone_book2 = new String[]{"123", "456", "789"};
         boolean answer2 = true;
-        boolean result2 = new programmers.P42577().solution(phone_book2);
+        boolean result2 = new P42577().solution(phone_book2);
         PRINT_RESULT(2, result2, answer2);
 
         String[] phone_book3 = new String[]{"12", "123", "1235", "567", "88"};
         boolean answer3 = false;
-        boolean result3 = new programmers.P42577().solution(phone_book3);
+        boolean result3 = new P42577().solution(phone_book3);
         PRINT_RESULT(3, result3, answer3);
     }
 

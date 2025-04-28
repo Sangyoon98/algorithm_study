@@ -5,19 +5,19 @@ class P120843 {
         int[] numbers1 = new int[]{1, 2, 3, 4};
         int k1 = 2;
         int answer1 = 3;
-        int result1 = new programmers.P120843().solution(numbers1, k1);
+        int result1 = new P120843().solution(numbers1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{1, 2, 3, 4, 5, 6};
         int k2 = 5;
         int answer2 = 3;
-        int result2 = new programmers.P120843().solution(numbers2, k2);
+        int result2 = new P120843().solution(numbers2, k2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] numbers3 = new int[]{1, 2, 3};
         int k3 = 3;
         int answer3 = 2;
-        int result3 = new programmers.P120843().solution(numbers3, k3);
+        int result3 = new P120843().solution(numbers3, k3);
         PRINT_RESULT(3, result3, answer3);
     }
 

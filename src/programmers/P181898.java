@@ -5,19 +5,19 @@ class P181898 {
         int[] arr1 = new int[]{0, 0, 0, 1};
         int idx1 = 1;
         int answer1 = 3;
-        int result1 = new programmers.P181898().solution(arr1, idx1);
+        int result1 = new P181898().solution(arr1, idx1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{1, 0, 0, 1, 0, 0};
         int idx2 = 4;
         int answer2 = -1;
-        int result2 = new programmers.P181898().solution(arr2, idx2);
+        int result2 = new P181898().solution(arr2, idx2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] arr3 = new int[]{1, 1, 1, 1, 0};
         int idx3 = 3;
         int answer3 = 3;
-        int result3 = new programmers.P181898().solution(arr3, idx3);
+        int result3 = new P181898().solution(arr3, idx3);
         PRINT_RESULT(3, result3, answer3);
     }
 

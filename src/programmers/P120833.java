@@ -8,14 +8,14 @@ class P120833 {
         int num11 = 1;
         int num21 = 3;
         int[] answer1 = new int[]{2, 3, 4};
-        int[] result1 = new programmers.P120833().solution(numbers1, num11, num21);
+        int[] result1 = new P120833().solution(numbers1, num11, num21);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{1, 3, 5};
         int num12 = 1;
         int num22 = 2;
         int[] answer2 = new int[]{3, 5};
-        int[] result2 = new programmers.P120833().solution(numbers2, num12, num22);
+        int[] result2 = new P120833().solution(numbers2, num12, num22);
         PRINT_RESULT(2, result2, answer2);
     }
 

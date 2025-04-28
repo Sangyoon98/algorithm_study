@@ -7,12 +7,12 @@ class P181870 {
     public static void main(String[] args) {
         String[] strArr1 = new String[]{"and", "notad", "abcd"};
         String[] answer1 = new String[]{"and", "abcd"};
-        String[] result1 = new programmers.P181870().solution(strArr1);
+        String[] result1 = new P181870().solution(strArr1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] strArr2 = new String[]{"there", "are", "no", "a", "ds"};
         String[] answer2 = new String[]{"there", "are", "no", "a", "ds"};
-        String[] result2 = new programmers.P181870().solution(strArr2);
+        String[] result2 = new P181870().solution(strArr2);
         PRINT_RESULT(2, result2, answer2);
     }
 

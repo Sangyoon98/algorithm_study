@@ -4,17 +4,17 @@ class P120868 {
     public static void main(String[] args) {
         int[] sides1 = new int[]{1, 2};
         int answer1 = 1;
-        int result1 = new programmers.P120868().solution(sides1);
+        int result1 = new P120868().solution(sides1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] sides2 = new int[]{3, 6};
         int answer2 = 5;
-        int result2 = new programmers.P120868().solution(sides2);
+        int result2 = new P120868().solution(sides2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] sides3 = new int[]{11, 7};
         int answer3 = 13;
-        int result3 = new programmers.P120868().solution(sides3);
+        int result3 = new P120868().solution(sides3);
         PRINT_RESULT(3, result3, answer3);
     }
 

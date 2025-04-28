@@ -6,14 +6,14 @@ class P120895 {
         int num11 = 1;
         int num21 = 2;
         String answer1 = "hlelo";
-        String result1 = new programmers.P120895().solution(my_string1, num11, num21);
+        String result1 = new P120895().solution(my_string1, num11, num21);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "I love you";
         int num12 = 3;
         int num22 = 6;
         String answer2 = "I l veoyou";
-        String result2 = new programmers.P120895().solution(my_string2, num12, num22);
+        String result2 = new P120895().solution(my_string2, num12, num22);
         PRINT_RESULT(2, result2, answer2);
     }
 

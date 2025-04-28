@@ -9,19 +9,19 @@ class P181851 {
         int[] rank1 = new int[]{3, 7, 2, 5, 4, 6, 1};
         boolean[] attendance1 = new boolean[]{false, true, true, true, true, false, false};
         int answer1 = 20403;
-        int result1 = new programmers.P181851().solution(rank1, attendance1);
+        int result1 = new P181851().solution(rank1, attendance1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] rank2 = new int[]{1, 2, 3};
         boolean[] attendance2 = new boolean[]{true, true, true};
         int answer2 = 102;
-        int result2 = new programmers.P181851().solution(rank2, attendance2);
+        int result2 = new P181851().solution(rank2, attendance2);
         PRINT_RESULT(2, result2, answer2);
 
         int[] rank3 = new int[]{6, 1, 5, 2, 3, 4};
         boolean[] attendance3 = new boolean[]{true, false, true, false, false, true};
         int answer3 = 50200;
-        int result3 = new programmers.P181851().solution(rank3, attendance3);
+        int result3 = new P181851().solution(rank3, attendance3);
         PRINT_RESULT(3, result3, answer3);
     }
 

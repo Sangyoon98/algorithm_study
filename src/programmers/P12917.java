@@ -6,7 +6,7 @@ class P12917 {
     public static void main(String[] args) {
         String s1 = "Zbcdefg";
         String answer1 = "gfedcbZ";
-        String result1 = new programmers.P12917().solution(s1);
+        String result1 = new P12917().solution(s1);
         PRINT_RESULT(1, result1, answer1);
     }
 

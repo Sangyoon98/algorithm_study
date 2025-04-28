@@ -4,7 +4,7 @@ class P12924 {
     public static void main(String[] args) {
         int n1 = 15;
         int answer1 = 4;
-        int result1 = new programmers.P12924().solution(n1);
+        int result1 = new P12924().solution(n1);
         PRINT_RESULT(1, result1, answer1);
     }
 

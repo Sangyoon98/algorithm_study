@@ -4,7 +4,7 @@ class P12919 {
     public static void main(String[] args) {
         String[] seoul1 = new String[]{"Jane", "Kim"};
         String answer1 = "김서방은 1에 있다";
-        String result1 = new programmers.P12919().solution(seoul1);
+        String result1 = new P12919().solution(seoul1);
         PRINT_RESULT(1, result1, answer1);
     }
 

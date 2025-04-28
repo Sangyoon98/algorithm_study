@@ -4,12 +4,12 @@ class P120891 {
     public static void main(String[] args) {
         int order1 = 3;
         int answer1 = 1;
-        int result1 = new programmers.P120891().solution(order1);
+        int result1 = new P120891().solution(order1);
         PRINT_RESULT(1, result1, answer1);
 
         int order2 = 29423;
         int answer2 = 2;
-        int result2 = new programmers.P120891().solution(order2);
+        int result2 = new P120891().solution(order2);
         PRINT_RESULT(2, result2, answer2);
     }
 

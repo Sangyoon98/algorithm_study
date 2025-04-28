@@ -7,12 +7,12 @@ class P120897 {
     public static void main(String[] args) {
         int n1 = 24;
         int[] answer1 = new int[]{1, 2, 3, 4, 6, 8, 12, 24};
-        int[] result1 = new programmers.P120897().solution(n1);
+        int[] result1 = new P120897().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 29;
         int[] answer2 = new int[]{1, 29};
-        int[] result2 = new programmers.P120897().solution(n2);
+        int[] result2 = new P120897().solution(n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

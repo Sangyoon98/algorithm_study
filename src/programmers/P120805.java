@@ -5,13 +5,13 @@ class P120805 {
         int num11 = 10;
         int num21 = 5;
         int answer1 = 2;
-        int result1 = new programmers.P120805().solution(num11, num21);
+        int result1 = new P120805().solution(num11, num21);
         PRINT_RESULT(1, result1, answer1);
 
         int num12 = 7;
         int num22 = 2;
         int answer2 = 3;
-        int result2 = new programmers.P120805().solution(num12, num22);
+        int result2 = new P120805().solution(num12, num22);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -7,19 +7,19 @@ class P181856 {
         int[] arr11 = new int[]{49, 13};
         int[] arr21 = new int[]{70, 11, 2};
         int answer1 = -1;
-        int result1 = new programmers.P181856().solution(arr11, arr21);
+        int result1 = new P181856().solution(arr11, arr21);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr12 = new int[]{100, 17, 84, 1};
         int[] arr22 = new int[]{55, 12, 65, 36};
         int answer2 = 1;
-        int result2 = new programmers.P181856().solution(arr12, arr22);
+        int result2 = new P181856().solution(arr12, arr22);
         PRINT_RESULT(2, result2, answer2);
 
         int[] arr13 = new int[]{1, 2, 3, 4, 5};
         int[] arr23 = new int[]{3, 3, 3, 3, 3};
         int answer3 = 0;
-        int result3 = new programmers.P181856().solution(arr13, arr23);
+        int result3 = new P181856().solution(arr13, arr23);
         PRINT_RESULT(3, result3, answer3);
     }
 

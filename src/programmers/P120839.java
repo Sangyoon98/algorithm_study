@@ -4,12 +4,12 @@ class P120839 {
     public static void main(String[] args) {
         String rsp1 = "2";
         String answer1 = "0";
-        String result1 = new programmers.P120839().solution(rsp1);
+        String result1 = new P120839().solution(rsp1);
         PRINT_RESULT(1, result1, answer1);
 
         String rsp2 = "205";
         String answer2 = "052";
-        String result2 = new programmers.P120839().solution(rsp2);
+        String result2 = new P120839().solution(rsp2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,12 +4,12 @@ class P181874 {
     public static void main(String[] args) {
         String myString1 = "abstract algebra";
         String answer1 = "AbstrAct AlgebrA";
-        String result1 = new programmers.P181874().solution(myString1);
+        String result1 = new P181874().solution(myString1);
         PRINT_RESULT(1, result1, answer1);
 
         String myString2 = "PrOgRaMmErS";
         String answer2 = "progrAmmers";
-        String result2 = new programmers.P181874().solution(myString2);
+        String result2 = new P181874().solution(myString2);
         PRINT_RESULT(2, result2, answer2);
     }
 

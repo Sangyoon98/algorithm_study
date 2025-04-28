@@ -7,13 +7,13 @@ class P120880 {
         int[] numlist1 = new int[]{1, 2, 3, 4, 5, 6};
         int n1 = 4;
         int[] answer1 = new int[]{4, 5, 3, 6, 2, 1};
-        int[] result1 = new programmers.P120880().solution(numlist1, n1);
+        int[] result1 = new P120880().solution(numlist1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numlist2 = new int[]{10000, 20, 36, 47, 40, 6, 10, 7000};
         int n2 = 30;
         int[] answer2 = new int[]{36, 40, 20, 47, 10, 6, 7000, 10000};
-        int[] result2 = new programmers.P120880().solution(numlist2, n2);
+        int[] result2 = new P120880().solution(numlist2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

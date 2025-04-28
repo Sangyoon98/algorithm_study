@@ -8,19 +8,19 @@ class P120905 {
         int n1 = 3;
         int[] numlist1 = new int[]{4, 5, 6, 7, 8, 9, 10, 11, 12};
         int[] answer1 = new int[]{6, 9, 12};
-        int[] result1 = new programmers.P120905().solution(n1, numlist1);
+        int[] result1 = new P120905().solution(n1, numlist1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 5;
         int[] numlist2 = new int[]{1, 9, 3, 10, 13, 5};
         int[] answer2 = new int[]{10, 5};
-        int[] result2 = new programmers.P120905().solution(n2, numlist2);
+        int[] result2 = new P120905().solution(n2, numlist2);
         PRINT_RESULT(2, result2, answer2);
 
         int n3 = 12;
         int[] numlist3 = new int[]{2, 100, 120, 600, 12, 12};
         int[] answer3 = new int[]{120, 600, 12, 12};
-        int[] result3 = new programmers.P120905().solution(n3, numlist3);
+        int[] result3 = new P120905().solution(n3, numlist3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -6,12 +6,12 @@ class P120854 {
     public static void main(String[] args) {
         String[] strlist1 = new String[]{"We", "are", "the", "world!"};
         int[] answer1 = new int[]{2, 3, 3, 6};
-        int[] result1 = new programmers.P120854().solution(strlist1);
+        int[] result1 = new P120854().solution(strlist1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] strlist2 = new String[]{"I", "Love", "Programmers."};
         int[] answer2 = new int[]{1, 4, 12};
-        int[] result2 = new programmers.P120854().solution(strlist2);
+        int[] result2 = new P120854().solution(strlist2);
         PRINT_RESULT(2, result2, answer2);
     }
 

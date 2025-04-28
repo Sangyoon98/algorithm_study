@@ -5,13 +5,13 @@ class P120816 {
         int slice1 = 7;
         int n1 = 10;
         int answer1 = 2;
-        int result1 = new programmers.P120816().solution(slice1, n1);
+        int result1 = new P120816().solution(slice1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         int slice2 = 4;
         int n2 = 12;
         int answer2 = 3;
-        int result2 = new programmers.P120816().solution(slice2, n2);
+        int result2 = new P120816().solution(slice2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -7,17 +7,17 @@ class P120852 {
     public static void main(String[] args) {
         int n1 = 12;
         int[] answer1 = new int[]{2, 3};
-        int[] result1 = new programmers.P120852().solution(n1);
+        int[] result1 = new P120852().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 17;
         int[] answer2 = new int[]{17};
-        int[] result2 = new programmers.P120852().solution(n2);
+        int[] result2 = new P120852().solution(n2);
         PRINT_RESULT(2, result2, answer2);
 
         int n3 = 420;
         int[] answer3 = new int[]{2, 3, 5, 7};
-        int[] result3 = new programmers.P120852().solution(n3);
+        int[] result3 = new P120852().solution(n3);
         PRINT_RESULT(3, result3, answer3);
     }
 

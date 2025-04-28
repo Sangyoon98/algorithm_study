@@ -6,17 +6,17 @@ class P181830 {
     public static void main(String[] args) {
         int[][] arr1 = new int[][]{{572, 22, 37}, {287, 726, 384}, {85, 137, 292}, {487, 13, 876}};
         int[][] answer1 = new int[][]{{572, 22, 37, 0}, {287, 726, 384, 0}, {85, 137, 292, 0}, {487, 13, 876, 0}};
-        int[][] result1 = new programmers.P181830().solution(arr1);
+        int[][] result1 = new P181830().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[][] arr2 = new int[][]{{57, 192, 534, 2}, {9, 345, 192, 999}};
         int[][] answer2 = new int[][]{{57, 192, 534, 2}, {9, 345, 192, 999}, {0, 0, 0, 0}, {0, 0, 0, 0}};
-        int[][] result2 = new programmers.P181830().solution(arr2);
+        int[][] result2 = new P181830().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
 
         int[][] arr3 = new int[][]{{1, 2}, {3, 4}};
         int[][] answer3 = new int[][]{{1, 2}, {3, 4}};
-        int[][] result3 = new programmers.P181830().solution(arr3);
+        int[][] result3 = new P181830().solution(arr3);
         PRINT_RESULT(3, result3, answer3);
     }
 

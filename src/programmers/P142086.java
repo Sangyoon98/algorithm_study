@@ -6,12 +6,12 @@ class P142086 {
     public static void main(String[] args) {
         String s1 = "banana";
         int[] answer1 = new int[]{-1, -1, -1, 2, 2, 2};
-        int[] result1 = new programmers.P142086().solution(s1);
+        int[] result1 = new P142086().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "foobar";
         int[] answer2 = new int[]{-1, -1, 1, -1, -1, -1};
-        int[] result2 = new programmers.P142086().solution(s2);
+        int[] result2 = new P142086().solution(s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -6,7 +6,7 @@ class P42747 {
     public static void main(String[] args) {
         int[] citations1 = new int[]{3, 0, 6, 1, 5};
         int answer1 = 3;
-        int result1 = new programmers.P42747().solution(citations1);
+        int result1 = new P42747().solution(citations1);
         PRINT_RESULT(1, result1, answer1);
     }
 

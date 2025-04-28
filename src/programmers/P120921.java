@@ -5,25 +5,25 @@ class P120921 {
         String A1 = "hello";
         String B1 = "ohell";
         int answer1 = 1;
-        int result1 = new programmers.P120921().solution(A1, B1);
+        int result1 = new P120921().solution(A1, B1);
         PRINT_RESULT(1, result1, answer1);
 
         String A2 = "apple";
         String B2 = "elppa";
         int answer2 = -1;
-        int result2 = new programmers.P120921().solution(A2, B2);
+        int result2 = new P120921().solution(A2, B2);
         PRINT_RESULT(2, result2, answer2);
 
         String A3 = "atat";
         String B3 = "tata";
         int answer3 = 1;
-        int result3 = new programmers.P120921().solution(A3, B3);
+        int result3 = new P120921().solution(A3, B3);
         PRINT_RESULT(3, result3, answer3);
 
         String A4 = "abc";
         String B4 = "abc";
         int answer4 = 0;
-        int result4 = new programmers.P120921().solution(A4, B4);
+        int result4 = new P120921().solution(A4, B4);
         PRINT_RESULT(4, result4, answer4);
     }
 

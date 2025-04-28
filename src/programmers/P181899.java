@@ -7,7 +7,7 @@ class P181899 {
         int start_num1 = 10;
         int end_num1 = 3;
         int[] answer1 = new int[]{10, 9, 8, 7, 6, 5, 4, 3};
-        int[] result1 = new programmers.P181899().solution(start_num1, end_num1);
+        int[] result1 = new P181899().solution(start_num1, end_num1);
         PRINT_RESULT(1, result1, answer1);
     }
 

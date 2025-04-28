@@ -6,17 +6,17 @@ class P70129 {
     public static void main(String[] args) {
         String s1 = "110010101001";
         int[] answer1 = new int[]{3, 8};
-        int[] result1 = new programmers.P70129().solution(s1);
+        int[] result1 = new P70129().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "01110";
         int[] answer2 = new int[]{3, 3};
-        int[] result2 = new programmers.P70129().solution(s2);
+        int[] result2 = new P70129().solution(s2);
         PRINT_RESULT(2, result2, answer2);
 
         String s3 = "1111111";
         int[] answer3 = new int[]{4, 1};
-        int[] result3 = new programmers.P70129().solution(s3);
+        int[] result3 = new P70129().solution(s3);
         PRINT_RESULT(3, result3, answer3);
     }
 

@@ -6,7 +6,7 @@ class P12985 {
         int a1 = 4;
         int b1 = 7;
         int answer1 = 3;
-        int result1 = new programmers.P12985().solution(n1, a1, b1);
+        int result1 = new P12985().solution(n1, a1, b1);
         PRINT_RESULT(1, result1, answer1);
     }
 

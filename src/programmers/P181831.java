@@ -4,12 +4,12 @@ class P181831 {
     public static void main(String[] args) {
         int[][] arr1 = new int[][]{{5, 192, 33}, {192, 72, 95}, {33, 95, 999}};
         int answer1 = 1;
-        int result1 = new programmers.P181831().solution(arr1);
+        int result1 = new P181831().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
 
         int[][] arr2 = new int[][]{{19, 498, 258, 587}, {63, 93, 7, 754}, {258, 7, 1000, 723}, {587, 754, 723, 81}};
         int answer2 = 0;
-        int result2 = new programmers.P181831().solution(arr2);
+        int result2 = new P181831().solution(arr2);
         PRINT_RESULT(2, result2, answer2);
     }
 

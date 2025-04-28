@@ -5,7 +5,7 @@ class P87946 {
         int k1 = 80;
         int[][] dungeons1 = new int[][]{{80, 20}, {50, 40}, {30, 10}};
         int answer1 = 3;
-        int result1 = new programmers.P87946().solution(k1, dungeons1);
+        int result1 = new P87946().solution(k1, dungeons1);
         PRINT_RESULT(1, result1, answer1);
     }
 

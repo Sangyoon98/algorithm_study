@@ -6,7 +6,7 @@ class P12933 {
     public static void main(String[] args) {
         long n1 = 118372L;
         long answer1 = 873211L;
-        long result1 = new programmers.P12933().solution(n1);
+        long result1 = new P12933().solution(n1);
         PRINT_RESULT(1, result1, answer1);
     }
 

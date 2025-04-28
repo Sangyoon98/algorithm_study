@@ -4,12 +4,12 @@ class P12948 {
     public static void main(String[] args) {
         String phone_number1 = "01033334444";
         String answer1 = "*******4444";
-        String result1 = new programmers.P12948().solution(phone_number1);
+        String result1 = new P12948().solution(phone_number1);
         PRINT_RESULT(1, result1, answer1);
 
         String phone_number2 = "027778888";
         String answer2 = "*****8888";
-        String result2 = new programmers.P12948().solution(phone_number2);
+        String result2 = new P12948().solution(phone_number2);
         PRINT_RESULT(2, result2, answer2);
     }
 

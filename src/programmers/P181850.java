@@ -4,12 +4,12 @@ class P181850 {
     public static void main(String[] args) {
         double flo1 = 1.42;
         int answer1 = 1;
-        int result1 = new programmers.P181850().solution(flo1);
+        int result1 = new P181850().solution(flo1);
         PRINT_RESULT(1, result1, answer1);
 
         double flo2 = 69.32;
         int answer2 = 69;
-        int result2 = new programmers.P181850().solution(flo2);
+        int result2 = new P181850().solution(flo2);
         PRINT_RESULT(2, result2, answer2);
     }
 

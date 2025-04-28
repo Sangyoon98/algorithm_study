@@ -8,13 +8,13 @@ class P181921 {
         int l1 = 5;
         int r1 = 555;
         int[] answer1 = new int[]{5, 50, 55, 500, 505, 550, 555};
-        int[] result1 = new programmers.P181921().solution(l1, r1);
+        int[] result1 = new P181921().solution(l1, r1);
         PRINT_RESULT(1, result1, answer1);
 
         int l2 = 10;
         int r2 = 20;
         int[] answer2 = new int[]{-1};
-        int[] result2 = new programmers.P181921().solution(l2, r2);
+        int[] result2 = new P181921().solution(l2, r2);
         PRINT_RESULT(2, result2, answer2);
     }
 

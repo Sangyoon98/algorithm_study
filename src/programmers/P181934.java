@@ -7,7 +7,7 @@ class P181934 {
         int n1 = 20;
         int m1 = 50;
         int answer1 = 1;
-        int result1 = new programmers.P181934().solution(ineq1, eq1, n1, m1);
+        int result1 = new P181934().solution(ineq1, eq1, n1, m1);
         PRINT_RESULT(1, result1, answer1);
 
         String ineq2 = ">";
@@ -15,7 +15,7 @@ class P181934 {
         int n2 = 41;
         int m2 = 78;
         int answer2 = 0;
-        int result2 = new programmers.P181934().solution(ineq2, eq2, n2, m2);
+        int result2 = new P181934().solution(ineq2, eq2, n2, m2);
         PRINT_RESULT(2, result2, answer2);
     }
 

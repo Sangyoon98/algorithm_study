@@ -1,7 +1,5 @@
 package programmers;
 
-import java.util.Arrays;
-
 public class P12925 {
     public static void main(String[] args) {
         String n1 = "1234";

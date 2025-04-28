@@ -7,13 +7,13 @@ class P12982 {
         int[] d1 = new int[]{1, 3, 2, 5, 4};
         int budget1 = 9;
         int answer1 = 3;
-        int result1 = new programmers.P12982().solution(d1, budget1);
+        int result1 = new P12982().solution(d1, budget1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] d2 = new int[]{2, 2, 3, 3};
         int budget2 = 10;
         int answer2 = 4;
-        int result2 = new programmers.P12982().solution(d2, budget2);
+        int result2 = new P12982().solution(d2, budget2);
         PRINT_RESULT(2, result2, answer2);
     }
 

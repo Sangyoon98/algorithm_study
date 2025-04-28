@@ -5,13 +5,13 @@ public class P120804 {
         int num11 = 3;
         int num21 = 4;
         int answer1 = 12;
-        int result1 = new programmers.P120804().solution(num11, num21);
+        int result1 = new P120804().solution(num11, num21);
         PRINT_RESULT(1, result1, answer1);
 
         int num12 = 27;
         int num22 = 19;
         int answer2 = 513;
-        int result2 = new programmers.P120804().solution(num12, num22);
+        int result2 = new P120804().solution(num12, num22);
         PRINT_RESULT(2, result2, answer2);
     }
 

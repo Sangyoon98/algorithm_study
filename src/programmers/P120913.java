@@ -1,6 +1,5 @@
 package programmers;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 class P120913 {
@@ -8,13 +7,13 @@ class P120913 {
         String my_str1 = "abc1Addfggg4556b";
         int n1 = 6;
         String[] answer1 = new String[]{"abc1Ad", "dfggg4", "556b"};
-        String[] result1 = new programmers.P120913().solution(my_str1, n1);
+        String[] result1 = new P120913().solution(my_str1, n1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_str2 = "abcdef123";
         int n2 = 3;
         String[] answer2 = new String[]{"abc", "def", "123"};
-        String[] result2 = new programmers.P120913().solution(my_str2, n2);
+        String[] result2 = new P120913().solution(my_str2, n2);
         PRINT_RESULT(2, result2, answer2);
     }
 

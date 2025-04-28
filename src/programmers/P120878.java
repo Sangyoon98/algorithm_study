@@ -5,19 +5,19 @@ class P120878 {
         int a1 = 7;
         int b1 = 20;
         int answer1 = 1;
-        int result1 = new programmers.P120878().solution(a1, b1);
+        int result1 = new P120878().solution(a1, b1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 11;
         int b2 = 22;
         int answer2 = 1;
-        int result2 = new programmers.P120878().solution(a2, b2);
+        int result2 = new P120878().solution(a2, b2);
         PRINT_RESULT(2, result2, answer2);
 
         int a3 = 12;
         int b3 = 21;
         int answer3 = 2;
-        int result3 = new programmers.P120878().solution(a3, b3);
+        int result3 = new P120878().solution(a3, b3);
         PRINT_RESULT(3, result3, answer3);
     }
 

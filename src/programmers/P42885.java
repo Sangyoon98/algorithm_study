@@ -7,13 +7,13 @@ class P42885 {
         int[] people1 = new int[]{70, 50, 80, 50};
         int limit1 = 100;
         int answer1 = 3;
-        int result1 = new programmers.P42885().solution(people1, limit1);
+        int result1 = new P42885().solution(people1, limit1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] people2 = new int[]{70, 80, 50};
         int limit2 = 100;
         int answer2 = 3;
-        int result2 = new programmers.P42885().solution(people2, limit2);
+        int result2 = new P42885().solution(people2, limit2);
         PRINT_RESULT(2, result2, answer2);
     }
 

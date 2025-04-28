@@ -6,12 +6,12 @@ class P181890 {
     public static void main(String[] args) {
         String[] str_list1 = new String[]{"u", "u", "l", "r"};
         String[] answer1 = new String[]{"u", "u"};
-        String[] result1 = new programmers.P181890().solution(str_list1);
+        String[] result1 = new P181890().solution(str_list1);
         PRINT_RESULT(1, result1, answer1);
 
         String[] str_list2 = new String[]{"l"};
         String[] answer2 = new String[]{""};
-        String[] result2 = new programmers.P181890().solution(str_list2);
+        String[] result2 = new P181890().solution(str_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 

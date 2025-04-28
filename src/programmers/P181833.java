@@ -6,17 +6,17 @@ class P181833 {
     public static void main(String[] args) {
         int n1 = 3;
         int[][] answer1 = new int[][]{{1, 0, 0}, {0, 1, 0}, {0, 0, 1}};
-        int[][] result1 = new programmers.P181833().solution(n1);
+        int[][] result1 = new P181833().solution(n1);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 6;
         int[][] answer2 = new int[][]{{1, 0, 0, 0, 0, 0}, {0, 1, 0, 0, 0, 0}, {0, 0, 1, 0, 0, 0}, {0, 0, 0, 1, 0, 0}, {0, 0, 0, 0, 1, 0}, {0, 0, 0, 0, 0, 1}};
-        int[][] result2 = new programmers.P181833().solution(n2);
+        int[][] result2 = new P181833().solution(n2);
         PRINT_RESULT(2, result2, answer2);
 
         int n3 = 1;
         int[][] answer3 = new int[][]{{1}};
-        int[][] result3 = new programmers.P181833().solution(n3);
+        int[][] result3 = new P181833().solution(n3);
         PRINT_RESULT(3, result3, answer3);
     }
 

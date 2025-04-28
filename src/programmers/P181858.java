@@ -8,13 +8,13 @@ class P181858 {
         int[] arr1 = new int[]{0, 1, 1, 2, 2, 3};
         int k1 = 3;
         int[] answer1 = new int[]{0, 1, 2};
-        int[] result1 = new programmers.P181858().solution(arr1, k1);
+        int[] result1 = new P181858().solution(arr1, k1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] arr2 = new int[]{0, 1, 1, 1, 1};
         int k2 = 4;
         int[] answer2 = new int[]{0, 1, -1, -1};
-        int[] result2 = new programmers.P181858().solution(arr2, k2);
+        int[] result2 = new P181858().solution(arr2, k2);
         PRINT_RESULT(2, result2, answer2);
     }
 

@@ -4,12 +4,12 @@ class P120860 {
     public static void main(String[] args) {
         int[][] dots1 = new int[][]{{1, 1}, {2, 1}, {2, 2}, {1, 2}};
         int answer1 = 1;
-        int result1 = new programmers.P120860().solution(dots1);
+        int result1 = new P120860().solution(dots1);
         PRINT_RESULT(1, result1, answer1);
 
         int[][] dots2 = new int[][]{{-1, -1}, {1, 1}, {1, -1}, {-1, 1}};
         int answer2 = 4;
-        int result2 = new programmers.P120860().solution(dots2);
+        int result2 = new P120860().solution(dots2);
         PRINT_RESULT(2, result2, answer2);
     }
 

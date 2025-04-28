@@ -6,7 +6,7 @@ class P181902 {
     public static void main(String[] args) {
         String my_string1 = "Programmers";
         int[] answer1 = new int[]{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0};
-        int[] result1 = new programmers.P181902().solution(my_string1);
+        int[] result1 = new P181902().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
     }
 

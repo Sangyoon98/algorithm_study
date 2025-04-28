@@ -4,12 +4,12 @@ class P120864 {
     public static void main(String[] args) {
         String my_string1 = "aAb1B2cC34oOp";
         int answer1 = 37;
-        int result1 = new programmers.P120864().solution(my_string1);
+        int result1 = new P120864().solution(my_string1);
         PRINT_RESULT(1, result1, answer1);
 
         String my_string2 = "1a2b3c4d123Z";
         int answer2 = 133;
-        int result2 = new programmers.P120864().solution(my_string2);
+        int result2 = new P120864().solution(my_string2);
         PRINT_RESULT(2, result2, answer2);
     }
 

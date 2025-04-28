@@ -5,7 +5,7 @@ class P181829 {
         int[][] board1 = new int[][]{{0, 1, 2}, {1, 2, 3}, {2, 3, 4}, {3, 4, 5}};
         int k1 = 2;
         int answer1 = 8;
-        int result1 = new programmers.P181829().solution(board1, k1);
+        int result1 = new P181829().solution(board1, k1);
         PRINT_RESULT(1, result1, answer1);
     }
 

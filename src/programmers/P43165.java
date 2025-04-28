@@ -5,13 +5,13 @@ class P43165 {
         int[] numbers1 = new int[]{1, 1, 1, 1, 1};
         int target1 = 3;
         int answer1 = 5;
-        int result1 = new programmers.P43165().solution(numbers1, target1);
+        int result1 = new P43165().solution(numbers1, target1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] numbers2 = new int[]{4, 1, 2, 1};
         int target2 = 4;
         int answer2 = 2;
-        int result2 = new programmers.P43165().solution(numbers2, target2);
+        int result2 = new P43165().solution(numbers2, target2);
         PRINT_RESULT(2, result2, answer2);
     }
 

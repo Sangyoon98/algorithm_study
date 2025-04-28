@@ -4,17 +4,17 @@ class P120829 {
     public static void main(String[] args) {
         int angle1 = 70;
         int answer1 = 1;
-        int result1 = new programmers.P120829().solution(angle1);
+        int result1 = new P120829().solution(angle1);
         PRINT_RESULT(1, result1, answer1);
 
         int angle2 = 91;
         int answer2 = 3;
-        int result2 = new programmers.P120829().solution(angle2);
+        int result2 = new P120829().solution(angle2);
         PRINT_RESULT(2, result2, answer2);
 
         int angle3 = 180;
         int answer3 = 4;
-        int result3 = new programmers.P120829().solution(angle3);
+        int result3 = new P120829().solution(angle3);
         PRINT_RESULT(3, result3, answer3);
     }
 

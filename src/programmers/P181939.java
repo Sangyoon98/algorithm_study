@@ -5,13 +5,13 @@ class P181939 {
         int a1 = 9;
         int b1 = 91;
         int answer1 = 991;
-        int result1 = new programmers.P181939().solution(a1, b1);
+        int result1 = new P181939().solution(a1, b1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 89;
         int b2 = 8;
         int answer2 = 898;
-        int result2 = new programmers.P181939().solution(a2, b2);
+        int result2 = new P181939().solution(a2, b2);
         PRINT_RESULT(2, result2, answer2);
     }
 

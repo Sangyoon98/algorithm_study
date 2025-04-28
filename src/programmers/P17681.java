@@ -8,14 +8,14 @@ public class P17681 {
         int[] arr11 = {9, 20, 28, 18, 11};
         int[] arr12 = {30, 1, 21, 17, 28};
         String[] answer1 = {"#####", "# # #", "### #", "#  ##", "#####"};
-        String[] result1 = new programmers.P17681().solution(n1, arr11, arr12);
+        String[] result1 = new P17681().solution(n1, arr11, arr12);
         PRINT_RESULT(1, result1, answer1);
 
         int n2 = 6;
         int[] arr21 = {46, 33, 33, 22, 31, 50};
         int[] arr22 = {27, 56, 19, 14, 14, 10};
         String[] answer2 = {"######", "###  #", "##  ##", " #### ", " #####", "### # "};
-        String[] result2 = new programmers.P17681().solution(n2, arr21, arr22);
+        String[] result2 = new P17681().solution(n2, arr21, arr22);
         PRINT_RESULT(2, result2, answer2);
     }
 

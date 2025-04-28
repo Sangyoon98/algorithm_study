@@ -6,12 +6,12 @@ class P120824 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{1, 2, 3, 4, 5};
         int[] answer1 = new int[]{2, 3};
-        int[] result1 = new programmers.P120824().solution(num_list1);
+        int[] result1 = new P120824().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{1, 3, 5, 7};
         int[] answer2 = new int[]{0, 4};
-        int[] result2 = new programmers.P120824().solution(num_list2);
+        int[] result2 = new P120824().solution(num_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 

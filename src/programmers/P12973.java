@@ -6,12 +6,12 @@ class P12973 {
     public static void main(String[] args) {
         String s1 = "baabaa";
         int answer1 = 1;
-        int result1 = new programmers.P12973().solution(s1);
+        int result1 = new P12973().solution(s1);
         PRINT_RESULT(1, result1, answer1);
 
         String s2 = "cdcd";
         int answer2 = 0;
-        int result2 = new programmers.P12973().solution(s2);
+        int result2 = new P12973().solution(s2);
         PRINT_RESULT(2, result2, answer2);
     }
 

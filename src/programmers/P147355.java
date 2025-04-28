@@ -5,19 +5,19 @@ class P147355 {
         String t1 = "3141592";
         String p1 = "271";
         int answer1 = 2;
-        int result1 = new programmers.P147355().solution(t1, p1);
+        int result1 = new P147355().solution(t1, p1);
         PRINT_RESULT(1, result1, answer1);
 
         String t2 = "500220839878";
         String p2 = "7";
         int answer2 = 8;
-        int result2 = new programmers.P147355().solution(t2, p2);
+        int result2 = new P147355().solution(t2, p2);
         PRINT_RESULT(2, result2, answer2);
 
         String t3 = "10203";
         String p3 = "15";
         int answer3 = 3;
-        int result3 = new programmers.P147355().solution(t3, p3);
+        int result3 = new P147355().solution(t3, p3);
         PRINT_RESULT(3, result3, answer3);
     }
 

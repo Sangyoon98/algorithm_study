@@ -6,21 +6,21 @@ class P181930 {
         int b1 = 6;
         int c1 = 1;
         int answer1 = 9;
-        int result1 = new programmers.P181930().solution(a1, b1, c1);
+        int result1 = new P181930().solution(a1, b1, c1);
         PRINT_RESULT(1, result1, answer1);
 
         int a2 = 5;
         int b2 = 3;
         int c2 = 3;
         int answer2 = 473;
-        int result2 = new programmers.P181930().solution(a2, b2, c2);
+        int result2 = new P181930().solution(a2, b2, c2);
         PRINT_RESULT(2, result2, answer2);
 
         int a3 = 4;
         int b3 = 4;
         int c3 = 4;
         int answer3 = 110592;
-        int result3 = new programmers.P181930().solution(a3, b3, c3);
+        int result3 = new P181930().solution(a3, b3, c3);
         PRINT_RESULT(3, result3, answer3);
     }
 

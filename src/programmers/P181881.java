@@ -6,7 +6,7 @@ class P181881 {
     public static void main(String[] args) {
         int[] arr1 = new int[]{1, 2, 3, 100, 99, 98};
         int answer1 = 5;
-        int result1 = new programmers.P181881().solution(arr1);
+        int result1 = new P181881().solution(arr1);
         PRINT_RESULT(1, result1, answer1);
     }
 

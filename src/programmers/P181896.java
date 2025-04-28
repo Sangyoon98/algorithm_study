@@ -4,12 +4,12 @@ class P181896 {
     public static void main(String[] args) {
         int[] num_list1 = new int[]{12, 4, 15, 46, 38, -2, 15};
         int answer1 = 5;
-        int result1 = new programmers.P181896().solution(num_list1);
+        int result1 = new P181896().solution(num_list1);
         PRINT_RESULT(1, result1, answer1);
 
         int[] num_list2 = new int[]{13, 22, 53, 24, 15, 6};
         int answer2 = -1;
-        int result2 = new programmers.P181896().solution(num_list2);
+        int result2 = new P181896().solution(num_list2);
         PRINT_RESULT(2, result2, answer2);
     }
 
