@@ -4,9 +4,7 @@
 
 * * *
 
-### [ ~ 2025.04.27]
-
-*문제 제목이 <span style="color:orange">주황색</span>인 경우 복습한 문제
+[//]: # (*문제 제목이 <span style="color:orange">주황색</span>인 경우 복습한 문제)
 
 ## 백준
 
